@@ -1,1 +1,17 @@
 /* css styles */
+
+body {
+  font-family: Helvetica, Verdana, sans-serif;
+}
+
+/* Use serif for headings to add personality */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.serif-section {
+  font-family: "Fonts/MrDodo-Regular.otf", serif;
+  font-weight: 600;
+}
