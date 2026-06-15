@@ -2,6 +2,6 @@
 title: "Safer Parks"
 ---
 
-This is a Quarto website.
+Welcome to The Safer Parks Dashboard!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Supporting safer, more inclusive parks for women and girls
