@@ -1,14 +1,11 @@
 ---
 toc: false
-format:
-  html: 
-    backgroundcolor: '#572B6F'
 ---
 
-# Welcome to the Safer Parks Dashboard! {.color-pale}
+# Welcome to the Safer Parks Dashboard!
 
 
-[Supporting safer, more inclusive parks for women and girls]{.emphasis-pale}
+[Supporting safer, more inclusive parks for women and girls]{.emphasis}
 
 ::::{.grid}
 
