@@ -2,9 +2,9 @@
 title: "About"
 ---
 
-[A practical tool to strengthen park safety, design, and decision‑making]{.emphasis}
+## A practical tool to strengthen park safety, design, and decision‑making
 
-The Safer Parks Dashboard has been developed to support professionals working across crime prevention, parks management, and place‑shaping. It brings together [open spatial data](#) and the principles of safer park design to provide clear, actionable insight into improving feelings of safety for women and girls.
+The Safer Parks Dashboard has been developed to support professionals working across crime prevention, parks management, and place‑shaping. It brings together [open spatial data](data.qmd) and the [principles of safer park design](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance) to provide clear, actionable insight into improving feelings of safety for women and girls.
 
 Using the dashboard, partners can: 
 
@@ -14,7 +14,7 @@ Using the dashboard, partners can:
 - review amenities such as benches, toilets, and play areas at both site and regional level 
 
 ::: {.column-page-inset}
-![Overview of a park highlighting the key principles of a safer park, from the [Guidance](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance)](assets/Safer-Parks-Strategy-Harper-Perry-05.jpg){fig-align="center" width="100%" fig-alt="Overview sketch of a park with trees, paths, benches, and a playground. The sketch is annotated with arrows and text highlighting entrances, escape routes, and areas of visibility."}
+![Overview of a park highlighting the key principles of a safer park, from the [Guidance](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance).](assets/Safer-Parks-Strategy-Harper-Perry-05.jpg){fig-align="center" width="100%" fig-alt="Overview sketch of a park with trees, paths, benches, and a playground. The sketch is annotated with arrows and text highlighting entrances, escape routes, and areas of visibility."}
 :::
 
 By combining data layers, police and councils can target resources more effectively, aid scanning and analysis stages of SARA model problem-solving, inform Environmental Visual Audits, enhance patrol planning, undertake accessibility audits and strengthen park management plans. Friends of Parks groups and community organisations can also use the tool to inform local projects, identify opportunities, and collaborate with authorities. 
@@ -43,6 +43,7 @@ Safety increases when parks feel welcoming, and well‑used. Everyday activity, 
 
 :::
 
+
 :::
 :::
   
@@ -52,6 +53,7 @@ Safety increases when parks feel welcoming, and well‑used. Everyday activity, 
 ### Awareness 
 
 Design features that support awareness such as good visibility, suitable lighting, open sightlines and layouts that are easy to navigate help users feel secure. These elements reduce uncertainty, make escape routes clear, and help people intuitively understand the space around them. 
+
 
 ::: {.larger-bullets2}
 
@@ -87,6 +89,32 @@ A sense of belonging plays a vital role in safety. Inclusion means co‑producin
 :::
   
 :::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+![](assets/eyes-on-the-park/Safer Parks_Personal Trainer.png){fig-align="right" fig-alt="A sketch of a park with exercise classes with personal trainers taking place."}
+
+:::
+  
+::: {.g-col-12 .g-col-md-4}
+
+
+![](assets/eyes-on-the-park/Safer Parks_Shrubbery and trees.png){fig-align="right" fig-alt="A sketch of a park with exercise classes with personal trainers taking place."}
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+
+![](assets/eyes-on-the-park/Safer Parks_Multiple exits.png){fig-align="right" fig-alt="A sketch of a park with multiple exists highlighted."}
+
+
+:::
+
+:::
+
 
 ::::
 
