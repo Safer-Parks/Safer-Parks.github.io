@@ -415,3 +415,24 @@ h2, .h2 {
 .img-box {
   padding: 1rem;
 }
+
+div.callout-note.callout {
+    border-left-color: #4F6C37;
+}
+
+.callout.callout-style-simple>div.callout-header {
+    border-bottom: none;
+    font-size: .9rem;
+    font-weight: 600;
+    opacity: 75%;
+    font-family: "MrDodo Regular", serif;
+}
+
+div.callout-note.callout-titled .callout-icon::before {
+    background-image: url(assets/icon.svg);
+}
+
+.callout.callout-style-simple:not(.no-icon) div.callout-icon-container {
+    padding-top: .1em;
+    padding-right: .1em;
+}
