@@ -120,7 +120,7 @@ A sense of belonging plays a vital role in safety. Inclusion means co‑producin
 
 ## How this evidence is translated into practice
 
-The Safer Parks Dashboard puts this guidance into action by mapping open spatial data—including calculated entrances, visibility modelling, predicted footfall, lighting density, crime patterns, and facilities. Developed through ongoing co‑design with partners [link to partners page], including local authorities, police, and community groups, the dashboard reflects real operational needs and challenges.  
+The Safer Parks Dashboard puts this guidance into action by mapping open spatial data—including calculated entrances, visibility modelling, predicted footfall, lighting density, crime patterns, and facilities. Developed through ongoing co‑design with [partners](partners.qmd), including local authorities, police, and community groups, the dashboard reflects real operational needs and challenges.  
 
 A data‑driven approach can strengthen decision‑making, support VAWG prevention, and enable targeted improvements that increase women’s and girls’ confidence, access, and use of parks. 
 

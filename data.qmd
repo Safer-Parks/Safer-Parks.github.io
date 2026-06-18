@@ -1,3 +1,5 @@
 ---
 title: "Data & Methods"
 ---
+
+Learn more about using the different data layers to improve safety and inclusion in parks and green spaces across England and Wales in our [How to Use guide](guide.qmd).
