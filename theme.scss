@@ -76,7 +76,12 @@ h1 {
 }
 
 // Override any hardcoded pixel font sizes to use relative units instead
-* {
+// * {
+//   // Force all elements to respect user's font size preference
+//   font-size: revert !important;
+// }
+
+*:not(.slick-prev):not(.slick-next):not(.slick-prev)::before:not(.slick-next)::before {
   // Force all elements to respect user's font size preference
   font-size: revert !important;
 }
@@ -435,4 +440,40 @@ div.callout-note.callout-titled .callout-icon::before {
 .callout.callout-style-simple:not(.no-icon) div.callout-icon-container {
     padding-top: .1em;
     padding-right: .1em;
+}
+
+
+.carousel {
+  margin: 2rem 0;
+}
+
+.carousel img {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+
+.slick-next .slick-next-icon, .slick-next .slick-prev-icon, .slick-prev .slick-next-icon, .slick-prev .slick-prev-icon {
+    display: block;
+    color: #4F6C37 !important;
+    opacity: .75;
+    font-family: slick;
+    font-size: 2rem !important;
+    line-height: 1;
+}
+
+.slick-next, .slick-prev {
+    position: absolute;
+    top: 50%;
+    display: block;
+    padding: 0;
+    height: 60px;
+    width: 60px;
+    line-height: 0;
+    font-size: 2rem !important;
+    cursor: pointer;
+    background: 0 0;
+    color: transparent;
+    border: none;
+    transform: translate(0, -50%);
 }

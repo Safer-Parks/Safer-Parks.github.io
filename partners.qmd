@@ -1,5 +1,11 @@
 ---
 title: "Collaborators"
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" type="text/css" href="slick/slick.min.css"/>
+          <link rel="stylesheet" type="text/css" href="slick/accessible-slick-theme.min.css"/>
 ---
 
 [Collaboration driving safer public spaces ]{.emphasis}
@@ -14,3 +20,45 @@ The work has supported by:
 - Keep Britain Tidy/Green Flag Awad 
 - Police Crime Prevention Initiatives/Secured by Design 
 - Friends of Parks groups and community organisations, whose local knowledge and lived experience inform the design and validation of the dashboard 
+
+::: {.carousel}
+
+![](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="100%"}
+
+![](assets/icon-parks2.svg){fig-align="center" width="100%"}
+
+![](assets/icon-parks3.svg){fig-align="center" width="100%"}
+
+![](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="100%"}
+
+![](assets/icon-parks2.svg){fig-align="center" width="100%"}
+
+![](assets/icon-parks3.svg){fig-align="center" width="100%"}
+
+![](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="100%"}
+
+![](assets/icon-parks2.svg){fig-align="center" width="100%"}
+
+![](assets/icon-parks3.svg){fig-align="center" width="100%"}
+
+![](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="100%"}
+
+![](assets/icon-parks2.svg){fig-align="center" width="100%"}
+
+![](assets/icon-parks3.svg){fig-align="center" width="100%"}
+
+:::
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="slick/slick.min.js"></script>
+<script>
+$(document).ready(function(){
+  $('.carousel').slick({
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    infinite: true,
+    dots: true,
+    arrows: true
+  });
+});
+</script>
