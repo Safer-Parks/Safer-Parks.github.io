@@ -260,8 +260,8 @@ oversight.</td>
 <td>This layer uses DEFRA LIDAR data and author-generated analysis. For
 England, it draws on the 2022 composite dataset (Digital Surface Model
 and Digital Terrain Model). For Wales, a 32-bit LiDAR dataset is used.
-Full details: https://github.com/Safer-Parks/park-vga and <a
-href="https://github.com/Safer-Parks/park-vga/blob/main/notebooks/finding_lidar_tiles/README_downlaoding.md">https://github.com/Safer-Parks/park-vga/blob/main/notebooks/finding_lidar_tiles/README_downlaoding.md</a>).</td>
+Full details: [GitHub repository](https://github.com/Safer-Parks/park-vga) and <a
+href="https://github.com/Safer-Parks/park-vga/blob/main/notebooks/finding_lidar_tiles/README_downlaoding.md">README file</a>).</td>
 <td>Use with: Trees, Street Lighting, Predicted Route Popularity.</td>
 <td>Parks play an important ecological and wellbeing role, and
 vegetation is a key part of this. While some vegetation can reduce
@@ -387,9 +387,9 @@ safety.</td>
 height, and shrub height. For England, it uses the 2022 composite
 dataset (Digital Surface Model and Digital Terrain Model). For Wales, a
 32-bit LiDAR dataset is used. Full details: <a
-href="https://github.com/Safer-Parks/park-vga">https://github.com/Safer-Parks/park-vga</a>
+href="https://github.com/Safer-Parks/park-vga">GitHub Repo</a>
 and <a
-href="https://github.com/Safer-Parks/park-vga/blob/main/notebooks/finding_lidar_tiles/README_downlaoding.md">https://github.com/Safer-Parks/park-vga/blob/main/notebooks/finding_lidar_tiles/README_downlaoding.md</a>).</td>
+href="https://github.com/Safer-Parks/park-vga/blob/main/notebooks/finding_lidar_tiles/README_downlaoding.md">README File</a>).</td>
 <td>Use with: Visibility Analysis.</td>
 <td>Parks provide important ecological and wellbeing benefits, and
 vegetation is central to this. While some planting can reduce
