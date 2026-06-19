@@ -486,3 +486,16 @@ div.callout-note.callout-titled .callout-icon::before {
     border: none;
     transform: translate(0, -50%);
 }
+
+.pdf-preview {
+  margin: 2rem 0;
+  border: 2px solid #572B6F;
+  border-radius: 12px;
+  padding: 1rem;
+  background-color: #f8f8f8;
+}
+
+.pdf-preview iframe {
+  border: none;
+  border-radius: 8px;
+}

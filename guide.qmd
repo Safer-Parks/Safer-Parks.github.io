@@ -4,6 +4,9 @@ title: "How to use"
 
 [How to Use Data Layers]{.emphasis}
 
+This document provides guidance on how to use the data layers within the
+Safer Parks Dashboard.
+
 :::{.text-box3}
 
 The dashboard is an interactive tool that uses open spatial data to help practitioners improve safety and inclusion in parks and green spaces across England and Wales. It supports the [*Safer Parks: Improving Access to Women and Girls* guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf) by enabling evidence-led decisions in design, management and policing. 
@@ -44,9 +47,18 @@ The boundary of each park. The boundary is displayed as a polygon.
 
 Use the Park Boundary layer as the spatial reference for all other data. It helps to: 
 
-- Define park extent: What area does the park cover? all other layers are interpreted in relation to this boundary. 
-- Natural surveillance: What surrounds the park perimeter? Nearby streets, buildings, and open land influence visibility and natural surveillance (See Escape: The Safer Parks guidance). 
-- Connectivity: How well does the boundary connect to the surrounding street network? Strong connections can improve access and movement (See Escape: The Safer Parks guidance). 
+- **Define park extent:** What area does the park cover? all other
+  layers are interpreted in relation to this boundary.
+
+- **Natural surveillance:** What surrounds the park perimeter? Nearby
+  streets, buildings, and open land influence visibility and natural
+  surveillance (See [Escape: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=28)).
+
+- **Connectivity:** How well does the boundary connect to the
+  surrounding street network? Strong connections can improve access and
+  movement (See [Escape: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=28)).
 
 ### Where is the data from?  
 
@@ -68,20 +80,49 @@ The location of external park entrances or access and exit points. These are dis
 
 Identify entry and exit points across your chosen park to consider: 
 
-- Visibility at entry points: Are entrances clearly visible from surrounding streets and from within the park? Poor visibility can undermine feelings of safety (See Escape: The Safer Parks guidance for more information). 
-- Sufficiency of access: Are there enough entry and exit points? Limited options can create a feeling of entrapment (See Escape: The Safer Parks guidance ). 
-- Location on popular routes: Are entrances located on or near popular routes? Access points on busier  paths often feel safer (See Busyness and Activation: The Safer Parks guidance ). 
-- Secondary access points: Are there well-used  secondary access points? Frequently used secondary routes may indicate key access points or desire lines that could benefit from improvements such as enhanced surfacing, visibility, signage or lighting. 
-- Lighting: Are access and exit points adequately lit? (See Lighting: The Safer Parks guidance ). 
-- Public transport links: Are entrances well connected to public transport, such as bus stops or cycle stations (See Access and Location: The Safer Parks guidance).  
+- **Visibility at entry points:** Are entrances clearly visible from
+  surrounding streets and from within the park? Poor visibility can
+  undermine feelings of safety (See [Escape: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=28)
+  for more information).
+
+- **Sufficiency** **of access:** Are there enough entry and exit points?
+  Limited options can create a feeling of entrapment (See [Escape: The
+  Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=28)
+  ).
+
+- **Location on popular routes:** Are entrances located on or near
+  popular routes? Access points on busier paths often feel safer (See
+  [Busyness and Activation: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=14)
+  ).
+
+- **Secondary access points:** Are there well-used secondary access
+  points? Frequently used secondary routes may indicate key access
+  points or desire lines that could benefit from improvements such as
+  enhanced surfacing, visibility, signage or lighting.
+
+- **Lighting:** Are access and exit points adequately lit? (See
+  [Lighting: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=32)
+  ).
+
+- **Public transport links:** Are entrances well connected to public
+  transport, such as bus stops or cycle stations (See Access and
+  Location: The Safer Parks guidance).
 
 ### What layers could be combined? 
 
-For deeper insight, use alongside the Predicted Route Popularity, Visibility Analysis, and Street Lighting layers. 
+For deeper insight, use alongside the *Predicted Route Popularity*,
+*Visibility Analysis*, and *Street Lighting* layers.
 
 ### Where is the data from?  
 
-Access and exit points distinguish between primary entrances (as mapped by Ordnance Survey and OpenStreetMap data) and secondary or additional entry points to the park (i.e. calculated where a footpath intersects with a Park Boundary). 
+Access and exit points distinguish between primary entrances (as mapped
+by Ordnance Survey and OpenStreetMap data) and secondary or additional
+entry points to the park (i.e. calculated where a footpath intersects
+with a Park Boundary).
 
 :::
  
@@ -97,10 +138,26 @@ Cycling and walking infrastructure within and around parks. The network is displ
 
 Use this layer to understand how parks connect to the wider active travel network and where improvements could support safer, more inclusive use, considering: 
 
-- Visibility and lighting on active routes: Are key routes through the park visible, open, and well-lit, especially those used at peak times? Poor visibility can deter use, even on busy routes (See Visibility and Openness: The Safer Parks guidance and Lighting: The Safer Parks guidance). 
-- Connections to access points: Do routes connect well to access and exit points? Weak connections can reduce use and natural footfall (See Escape: The Safer Parks guidance and Access and Location). 
-- Signage and wayfinding: Is navigation clear along routes within  or alongside the park? (See Wayfinding and Layout: The Safer Parks guidance). 
-- Catchment coverage: Does the network serve the full local population, including those who rely on walking or cycling?  
+- **Visibility and lighting on active routes:** Are key routes through
+  the park visible, open, and well-lit, especially those used at peak
+  times? Poor visibility can deter use, even on busy routes (See
+  [Visibility and Openness: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=24)
+  and [Lighting: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=32)).
+
+- **Connections to access points:** Do routes connect well to access and
+  exit points? Weak connections can reduce use and natural footfall (See
+  [Escape: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=28)
+  and Access and Location).
+
+- **Signage and wayfinding:** Is navigation clear along routes within or
+  alongside the park? (See [Wayfinding and Layout: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=38)).
+
+- **Catchment coverage:** Does the network serve the full local
+  population, including those who rely on walking or cycling?
 
 ### What layers could be combined? 
 
@@ -124,10 +181,14 @@ A schematic background map that provides visual context for the park and its sur
 
 Unlike other layers, it is not analytical; it helps orient users and place other data layers within their spatial context.  
 
-- Use the basemap to support interpretation of the other layers. It is particularly useful for: 
-- Understanding surroundings: Identifying nearby streets, buildings, and green spaces around the park boundary. 
-- Orientation: Locating yourself within the dashboard before exploring other layers. 
-- Cross-referencing: Comparing  analytical layers with the area’s overall layout. 
+- **Understanding surroundings:** Identifying nearby streets, buildings,
+  and green spaces around the park boundary.
+
+- **Orientation:** Locating yourself within the dashboard before
+  exploring other layers.
+
+- **Cross-referencing:** Comparing analytical layers with the area’s
+  overall layout.
 
 ### Where is the data from? 
 
@@ -151,16 +212,47 @@ Some routes that are more likely to be used for movement through and around the 
 
 Use this layer to identify busier routes and assess how movement patterns relate to safety and design. Consider: 
 
-- Busyness and perceived safety: Which routes are likley to have higher footfall? These routes may feel safer due to increased presence of people (See Busyness and Activation: The Safer Parks guidance). 
-- Lighting and visibility on popular routes: Are popular routes open, visible, and well lit? Poor lighting or sightlines can undermine safety, event where routs are busy (See Visibility and Openness: The Safer Parks guidance; Lighting: The Safer Parks guidance). 
-- Connection to entrances: Do higher-use routes  connect clearly to access and exit points? Stronger connections can support movement, accessibility and natural footfall (See Wayfinding and Layout: The Safer Parks guidance). 
-- Supporting safety on key routes: Are primary routes, particularly those that may be used after dark, supported by lighting, signage, or passive surveillance?  Additional measures may be needed to support feelings of safety such as increased visibility from busier areas, patrols, CCTV, or locating activity-generating features (e.g. cafés, ranger bases) nearby. 
-- Improving the path network: Are there gaps, dead ends, or misaligned routes? Enhancing connections and aligning with desire lines can improve movement and perceived safety (See Wayfinding and Layout: The Safer Parks guidance). 
-- Placement of features and amenities: Are facilities located in areas with sufficient footfall? Positioning amenities on or nearby busier routes can increase use and passive surveillance (See Busyness and Activation: The Safer Parks guidance). 
+- **Busyness and perceived safety:** Which routes are likley to have
+  higher footfall? These routes may feel safer due to increased presence
+  of people (See [Busyness and Activation: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=14)).
+
+- **Lighting and visibility on popular routes:** Are popular routes
+  open, visible, and well lit? Poor lighting or sightlines can undermine
+  safety, event where routs are busy (See [Visibility and Openness: The
+  Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=24);
+  [Lighting: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=32)).
+
+- **Connection to entrances:** Do higher-use routes connect clearly to
+  access and exit points? Stronger connections can support movement,
+  accessibility and natural footfall (See [Wayfinding and Layout: The
+  Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=38)).
+
+- **Supporting safety on key routes:** Are primary routes, particularly
+  those that may be used after dark, supported by lighting, signage, or
+  passive surveillance? Additional measures may be needed to support
+  feelings of safety such as increased visibility from busier areas,
+  patrols, CCTV, or locating activity-generating features (e.g. cafés,
+  ranger bases) nearby.
+
+- **Improving the path network:** Are there gaps, dead ends, or
+  misaligned routes? Enhancing connections and aligning with desire
+  lines can improve movement and perceived safety (See [Wayfinding and
+  Layout: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=38)).
+
+- **Placement of features and amenities:** Are facilities located in
+  areas with sufficient footfall? Positioning amenities on or nearby
+  busier routes can increase use and passive surveillance (See [Busyness
+  and Activation: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=14)).
 
 ### What layers could be combined? 
 
-For deeper insight, use alongside the Visibility Analysis, Street Lighting, Access and Exit points, and Park Features layers. 
+For deeper insight, use alongside the *Visibility Analysis*, *Street Lighting*, *Access and Exit points*, and *Park Features layers*. 
 
 ### Where is the data from?  
 
@@ -180,16 +272,40 @@ This layer shows how visually connected different parts of the park are. It cons
 
 Areas with higher visibility allow people to see and be seen more easily. Use this layer to identify areas of higher and lower visibility in your chosen park. Consider: 
 
-- Vegetation management: Are there areas where dense vegetation limits visibility? Targeted management, such as reducing hedge height or lower-level planting along paths – can improve sightlines (See Visibility and Openness: The Safer Parks guidance). 
-- Tree canopy height: Are low tree canopies obstructing views? Raising canopies (i.e. above 2 metres) can help improve lines of sight (See Visibility and Openness: The Safer Parks guidance). 
-- Visibility at access and exit points: Are entrances and exits clearly visible from inside and outside the park? Improving visibility at these points can enhance feelings of safety (See Escape: The Safer Parks guidance). 
-- Wayfinding and signage: Are there areas were low visibility may make navigation difficult? Additional signage and clear routes can support wayfinding (See Wayfinding and Layout: The Safer Parks guidance). 
+
+- **Vegetation management:** Are there areas where dense vegetation
+  limits visibility? Targeted management, such as reducing hedge height
+  or lower-level planting along paths – can improve sightlines (See
+  [Visibility and Openness: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=24)).
+
+- **Tree canopy height:** Are low tree canopies obstructing views?
+  Raising canopies (i.e. above 2 metres) can help improve lines of sight
+  (See [Visibility and Openness: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=24)).
+
+- **Visibility at access and exit points:** Are entrances and exits
+  clearly visible from inside and outside the park? Improving visibility
+  at these points can enhance feelings of safety (See [Escape: The Safer
+  Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=28)).
+
+- **Wayfinding and signage:** Are there areas were low visibility may
+  make navigation difficult? Additional signage and clear routes can
+  support wayfinding (See [Wayfinding and Layout: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=38)).
 
 ### What layers could be combined? 
 
-For deeper insight, use alongside the Foliage, Street Lighting, and Predicted Route Popularity layers. 
+For deeper insight, use alongside the *Foliage*, *Street Lighting*, and
+*Predicted Route Popularity* layers.
 
-Note on vegetation and visibility: Parks play an important ecological and wellbeing role, and vegetation is a key part of this. While some vegetation can reduce visibility and block sightlines, the aim is not widespread clearance. Use the dashboard with local knowledge to identify targeted, proportionate improvements along key routes and around facilities.  
+**Note on vegetation and visibility**: Parks play an important
+ecological and wellbeing role, and vegetation is a key part of this.
+While some vegetation can reduce visibility and block sightlines, the
+aim is not widespread clearance. Use the dashboard with local knowledge
+to identify targeted, proportionate improvements along key routes and
+around facilities.
 
 ### Where is the data from?  
 
@@ -210,17 +326,45 @@ This layer shows the demographic profile of people living within a 15-minute wal
 
 Use this layer to understand the communities surrounding your chosen park. It helps identify who the park's potential users are and whether the provision reflects their needs. Consider: 
 
-- Catchment population: Which  communities fall within walking distance of the park? This helps identify who the primarily serves.  
-- Identifying underserved groups: Does the catchment include groups who may face additional barriers to park use? This may include women, girls, older people, disabled people, and  minority ethnic communities (See Belonging and Familiarity: The Safer Parks guidance). 
-- Facilities and design: Do park features and facilities reflect the diverse  needs of the local population? Align  features and facilities with community characteristics (See Access and Location, The Safer Parks guidance). 
-- Community engagement: How can this data inform co-production and engagement? Understanding local demographics can help shape inclusive design and decision-making (See Co-production and Engagement: The Safer Parks guidance). 
-- Access and connectivity: Are there areas where new or improved access and exit points could better serve nearby communities? This can improve accessibility, visibility, and perceptions of safety.   
-- Catchment coverage: Do access points and routes serve the full catchment area, including those living at its edges? Gaps may limit equitable access (See Access and Location, in the Safer Parks guidance). 
-- Funding applications: Can this data support evidence-based funding bids by demonstrating need and potential impact? 
+
+- **Catchment population:** Which communities fall within walking
+  distance of the park? This helps identify who the primarily serves.
+
+- **Identifying underserved groups:** Does the catchment include groups
+  who may face additional barriers to park use? This may include women,
+  girls, older people, disabled people, and minority ethnic communities
+  (See [Belonging and Familiarity: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=44)).
+
+- **Facilities and design:** Do park features and facilities reflect the
+  diverse needs of the local population? Align features and facilities
+  with community characteristics (See [Access and Location, The Safer
+  Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=52)).
+
+- **Community engagement:** How can this data inform co-production and
+  engagement? Understanding local demographics can help shape inclusive
+  design and decision-making (See [Co-production and Engagement: The
+  Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=56)).
+
+- **Access and connectivity:** Are there areas where new or improved
+  access and exit points could better serve nearby communities? This can
+  improve accessibility, visibility, and perceptions of safety.
+
+- **Catchment coverage:** Do access points and routes serve the full
+  catchment area, including those living at its edges? Gaps may limit
+  equitable access (See [Access and Location, in the Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=52)).
+
+- **Funding applications:** Can this data support evidence-based funding
+  bids by demonstrating need and potential impact?
 
 ### What layers could be combined?  
 
-For deeper insight, use alongside the Park Features, Access and Exit points, Visibility Analysis, Catchment Buffer, and Predicted Route Popularity layers.   
+For deeper insight, use alongside the *Park Features*, *Access and Exit
+points*, *Visibility Analysis*, *Catchment Buffer,* and *Predicted Route
+Popularity* layers. 
 
 ### Where is the data from?  
 
@@ -257,14 +401,33 @@ This layer shows facilities within parks, such as gardens, sports pitches, car p
 Use this layer to understand how facilities are distributed across your chosen park.  
 
 Parks with a wider range of features tend to attract more visitors and a broader mix of people. Certain facilities, such as cafes and playgrounds, can encourage co-presence and increase activity, contributing to greater ‘eyes on the park’. Consider: 
-- Gaps in provision: Are there areas with few or no facilities? These areas may attract less footfall and feel more isolated (See Busyness and Activation: The Safer Parks guidance). 
-- Gendered provision: Do existing facilities reflect the needs and interests of women and girls? Parks dominated by certain features (e.g. sports pitches or Multi-Use Games Areas) may not support inclusive use (See Belonging and Familiarity: The Safer Parks guidance). 
-- Visibility and accessibility: Are facilities visible and accessible from popular routes? Can you see one destination within the park from another? Well-located features can support use and improve perceived safety (See Wayfinding and Layout: The Safer Parks guidance). 
-- Reflecting local diversity: Does provision reflect the needs of the local population? Ese alongside the Demographics Data layer to assess alignment (See Access and Location: The Safer Parks guidance). 
+
+- **Gaps in provision:** Are there areas with few or no facilities?
+  These areas may attract less footfall and feel more isolated (See
+  [Busyness and Activation: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=14)).
+
+- **Gendered provision:** Do existing facilities reflect the needs and
+  interests of women and girls? Parks dominated by certain features
+  (e.g. sports pitches or Multi-Use Games Areas) may not support
+  inclusive use (See [Belonging and Familiarity: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=44)).
+
+- **Visibility and accessibility:** Are facilities visible and
+  accessible from popular routes? Can you see one destination within the
+  park from another? Well-located features can support use and improve
+  perceived safety (See [Wayfinding and Layout: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=38)).
+
+- **Reflecting local diversity:** Does provision reflect the needs of
+  the local population? Ese alongside the Demographics Data layer to
+  assess alignment (See [Access and Location: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=52)).
 
 ### What layers could be combined? 
 
-For deeper insight, use alongside the Predicted Route Popularity and Demographics Data layers. 
+For deeper insight, use alongside the *Predicted Route Popularity* and
+*Demographics Data* layers.
 
 ### Where is the data from?  
 
@@ -277,7 +440,8 @@ This data comes from combined Ordnance Survey and OpenStreetMap data.
 
 ### What is this layer?  
 
-Possible tree locations and vegetation coverage within parks. It is displayed as a heatmap. Note: this analysis may laos capture buildings/structures.
+Tree locations and vegetation coverage within parks. It is displayed as
+a heatmap. Note that this layer is derived fromLidar scans, and so will also capture buildings and other structures that are not vegetation.
 
 ### How to use this information  
 
@@ -285,15 +449,35 @@ Vegetation plays an important ecological role while also shaping sightlines and 
 
 Use this layer to identify where trees and dense vegetation are located within your chosen park. The dashboard reflects a ‘worst case’ visibility scenario, assuming full leaf coverage in summer. Consider: 
 
-- Sightlines along paths: Are there areas where vegetation close to paths reduces visibility? Dense or overgown planting may obstruct views and affect perceived safety. Use alongside the Visibility Analysis layer to understand the relationship (See Visibility and Openness: The Safer Parks guidance). 
-- Targeted maintenance: Are there locations were maintenance could improve visibility? Measures  such as raising tree canopies or managing shrub and hedge height can enhance sightlines without widespread removal (See Visibility and Openness: The Safer Parks guidance). 
-- Boundary and access point visibility: Does vegetation near park edges or entrances restrict visibility from surrounding streets? Improving visibility at these locations can support safety and wayfinding (See Escape: The Safer Parks guidance). 
+- **Sightlines along paths:** Are there areas where vegetation close to
+  paths reduces visibility? Dense or overgown planting may obstruct
+  views and affect perceived safety. Use alongside the Visibility
+  Analysis layer to understand the relationship (See [Visibility and
+  Openness: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=24)).
 
-Note on vegetation and visibility: Parks provide important ecological  and wellbeing benefits, and vegetation is central to this. While some planting can reduce visibility, the aim is not widespread clearance. Use the dashboard alongside local knowledge to identify targeted, proportionate improvements  along key routes and around facilities.   
+- **Targeted maintenance:** Are there locations were maintenance could
+  improve visibility? Measures such as raising tree canopies or managing
+  shrub and hedge height can enhance sightlines without widespread
+  removal (See [Visibility and Openness: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=24)).
+
+- **Boundary and access point visibility:** Does vegetation near park
+  edges or entrances restrict visibility from surrounding streets?
+  Improving visibility at these locations can support safety and
+  wayfinding (See [Escape: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=28)).
+
+**Note on vegetation and visibility**: Parks provide important
+ecological and wellbeing benefits, and vegetation is central to this.
+While some planting can reduce visibility, the aim is not widespread
+clearance. Use the dashboard alongside local knowledge to identify
+targeted, proportionate improvements along key routes and around
+facilities.
 
 ### What layers could be combined? 
 
-For deeper insight, use alongside the Visibility Analysis layer. 
+For deeper insight, use alongside the *Visibility Analysis* layer. 
 
 ### Where is the data from?  
 
@@ -313,16 +497,39 @@ Locations of street lighting within and around parks. The layer is displayed as 
 Lighting plays a key role in how safe parks feel, particularly after dark, including during early mornings and afternoons in Autumn and Winter. Parks often form part of active-travel routes, but many women and girls feel unsafe using them in low-light conditions.  
 
 Use this layer to identify areas that are unlit or poorly lit within and around your chosen park. Consider: 
-- Unlit paths: Which paths lack lighting, particularly those that are well-used or likely to attract higher footfall? (See Lighting: The Safer Parks guidance). These routes may be priority areas for improvement.  
-- Lighting at access and exit points: Are  entrances and exit points adequately lit? Poor lighting at these points can deter use and reduce perceptions of safety (See Lighting: The Safer Parks guidance).  
-- Targeting improvements: Where should lighting interventions be prioritised? Combining this layer with Visibility Analysis can help identify locations where lighting and sightlines together present higher risk. 
-- Supporting safe use after dark: Are areas likely to be used in low-light conditions supported by appropriate management measures? Enhancing lighting may require complementary approaches such as patrols, CCTV, or updated park management plans, including decisions about opening and closing times.  
 
-Note: Lighting should be applied selectively and strategically. Decisions should balance likely use, safety needs, active travel, and ecological impacts. Lower-level, evenly distributed lighting can improve comfort and visibility while avoiding excessive brightness glare, and deep shadows. 
+
+- **Unlit paths:** Which paths lack lighting, particularly those that
+  are well-used or likely to attract higher footfall? (See [Lighting:
+  The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=32)).
+  These routes may be priority areas for improvement.
+
+- **Lighting at access and exit points:** Are entrances and exit points
+  adequately lit? Poor lighting at these points can deter use and reduce
+  perceptions of safety (See [Lighting: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=32)).
+
+- **Targeting improvements**: Where should lighting interventions be
+  prioritised? Combining this layer with Visibility Analysis can help
+  identify locations where lighting and sightlines together present
+  higher risk.
+
+- **Supporting safe use after dark:** Are areas likely to be used in
+  low-light conditions supported by appropriate management measures?
+  Enhancing lighting may require complementary approaches such as
+  patrols, CCTV, or updated park management plans, including decisions
+  about opening and closing times.
+
+**Note:** Lighting should be applied selectively and strategically.
+Decisions should balance likely use, safety needs, active travel, and
+ecological impacts. Lower-level, evenly distributed lighting can improve
+comfort and visibility while avoiding excessive brightness glare, and
+deep shadows.
 
 ### What layers could be combined? 
 
-For deeper insight, use alongside the Visibility Analysis, Access and Exit points, and Predicted Route Popularity layers.  
+For deeper insight, use alongside the *Visibility Analysis*, *Access and Exit points*, and *Predicted Route Popularity* layers.  
 
 ### Where is the data from?  
 
@@ -342,13 +549,29 @@ Seating encourages people to spend time in the park, supporting activity, comfor
 
 Use this layer to understand where seating is—and is not—located within your chosen park. Consider: 
 
-- Gaps in seating: Are there areas with no or limited seating? Lack of seating may discourage use, particularly by women, older people, parents, and disabled users (See Belonging and Familiarity: The Safer Parks guidance). 
-- Location and safety: Is seating located in visible, well-lit areas? Seating in concealed or isolated spots may feel unsafe or attract unwanted behaviour (See Visibility and Openness: The Safer Parks guidance) 
-- Accessibility and diversity of seating: Does the type and distribution of seating meet a range of needs? Features such as circular seating, back-rests  accessible picnic tables, and shelter from sun or rain can support inclusive use. Consider this alongside the Demographics Data layer (See Access and Location: The Safer Parks guidance). 
+- **Gaps in seating:** Are there areas with no or limited seating? Lack
+  of seating may discourage use, particularly by women, older people,
+  parents, and disabled users (See [Belonging and Familiarity: The Safer
+  Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=44)).
+
+- **Location and safety:** Is seating located in visible, well-lit
+  areas? Seating in concealed or isolated spots may feel unsafe or
+  attract unwanted behaviour (See [Visibility and Openness: The Safer
+  Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=24))
+
+- **Accessibility and diversity of seating:** Does the type and
+  distribution of seating meet a range of needs? Features such as
+  circular seating, back-rests accessible picnic tables, and shelter
+  from sun or rain can support inclusive use. Consider this alongside
+  the Demographics Data layer (See [Access and Location: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=52)).
 
 ### What layers could be combined? 
 
-For deeper insight, use alongside the Visibility Analysis, Trees, Predicted Route Popularity, and Street Lighting layers. 
+For deeper insight, use alongside the *Visibility Analysis, Foliage,*
+*Predicted Route Popularity*, and *Street Lighting* layers.
 
 W### here is the data from?  
 
@@ -391,6 +614,8 @@ The following use cases illustrate how the dashboard can support specific decisi
 
 *Data layers used: Visibility Analysis + Foliage + Predicted Route Popularity.*
 
+![](assets/image1.png)
+
 In this example, tree density is shown as a green heatmap, while visibility is represented as a blue-to-yellow grid, with darker blue indicating lower visibility. Predicted Route Popularity is shown as a line network, with colours ranging from blue (lower) to red (higher).  
 
 In Peel Park, this combination highlights that the northern section has highest tree density and some of the lowest visibility. At the same time, routes through this area show high movement potential, suggesting it likely to be used as a key connection between the north and south of the neighbourhood. In contrast, more open areas in the southwest and northeast have higher visibility. 
@@ -412,6 +637,8 @@ The map also highlights areas in the southeast of the park with both low visibil
 ## Use case 2: Assessing lighting and routes  
 
 *Data layers used: Predicted Route Popularity + Street Lighting + Access and Exit points + Visibility Analysis.*
+
+![](assets/image2.png)
 
 In this example, street lighting is shown as a yellow heatmap, while visibility is represented as a blue-to-yellow grid, with darker blue indicating lower visibility. Predicted Route Popularity is displayed as a line network, ranging from blue (lower) to red (higher), with access points marking park entrances.  
 
