@@ -168,6 +168,22 @@ h1 {
   font-weight: 400;
 }
 
+.larger-bullets3 {
+  font-size: 1.1rem !important;
+  font-family: "MrDodo Regular", serif;
+  // line-height: 1.8;
+  font-weight: 300;
+}
+
+.larger-bullets3 li {
+  margin-top: 0.5rem;
+}
+
+.larger-bullets3 li a {
+  color: #4F6C37 !important;
+  // text-decoration: none;
+}
+
 /* Full Width Box */
 .full-width-box {
   /* Stretch background across full width */
