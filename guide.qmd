@@ -492,7 +492,9 @@ This layer uses DEFRA LIDAR data capturing elevation, tree canopy height, and sh
 
 ### What is this layer?  
 
-Locations of street lighting within and around parks. The layer is displayed as a heatmap. 
+Locations of street lighting within and around parks. The layer is displayed as point data.
+
+We provide street lighting data from Open Street Maps: this data is quite sparse, and may not be accurate. For our pilot WYCA areas, we have also used local authority data to supplement the OSM data. We hope to add to the lighting dataset in future, and welcome any contributions from local authorities.
 
 ### How to use this information 
 
