@@ -6,7 +6,7 @@ title: "About"
 
 :::{.text-box3}
 
-The Safer Parks Dashboard has been developed to support professionals working across crime prevention, parks management, and place‑shaping. It brings together [open spatial data](data.qmd) and the [principles of safer park design](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance) to provide clear, actionable insight into improving feelings of safety for women and girls.
+The Safer Parks Dashboard has been developed to support professionals working across crime prevention, parks management, and place‑shaping. It brings together [open spatial data](data.qmd) and the [principles of safer park design](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf) to provide clear, actionable insight into improving feelings of safety for women and girls.
 
 ![[The Safer Parks guidance](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf)](assets/guidance.png){width="40%" fig-align="center" alt="Cover of the Safer Parks guidance document, showing a sketch of a park with trees, paths, and benches."}
 
