@@ -25,13 +25,14 @@ Using the dashboard, partners can:
 ::: {.column-screen}
 ![Overview of a park highlighting the key principles of safer park design, from the [*Safer Parks: Improving Access for Women and Girls* guidance](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance); illustration credit: [Harper Perry](www.harperperry.co.uk).](assets/Safer-Parks-Strategy-Harper-Perry-05.jpg){fig-align="center" width="100%" fig-alt="Overview sketch of a park with trees, paths, benches, and a playground. The sketch is annotated with arrows and text highlighting entrances, escape routes, and areas of visibility."}
 :::
-
+:::: {.column-page-inset}
 :::{.text-box3}
 
 By combining data layers, police and councils can target resources more effectively, aid scanning and analysis stages of SARA model problem-solving, inform Environmental Visual Audits, enhance patrol planning, undertake accessibility audits and strengthen park management plans. Friends of Parks groups and community organisations can also use the tool to inform local projects, identify opportunities, and collaborate with authorities. 
 :::
 
 [Our aim is simple: to make parks feel safer and more welcoming for women and girls, and to support the prevention of violence against women and girls (VAWG) in public spaces.]{.emphasis}
+
 
 ## The evidence base behind the dashboard 
 
@@ -40,7 +41,7 @@ By combining data layers, police and councils can target resources more effectiv
 The dashboard is grounded in *Safer Parks: Improving Access for Women and Girls*, guidance developed through extensive research and engagement with women and teenage girls, parks managers, urban designers, police, and others. This research identified the environmental and social factors that most influence feelings of safety and the guidance sets out ten guiding principles for safer park design and management, organised across three themes: 
 :::
 
-:::: {.column-page-inset}
+
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
@@ -163,7 +164,7 @@ A sense of belonging plays a vital role in safety. Inclusion means co‑producin
 Three themes/ten guiding principles text and images from the [*Safer Parks: Improving Access for Women and Girls* guidance](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance); illustrations by [Harper Perry](www.harperperry.co.uk).
 
 
-::::
+
 
 ## How this evidence is translated into practice
 
@@ -176,3 +177,5 @@ A data‑driven approach can strengthen decision‑making, support VAWG preventi
 Together, the guidance and the dashboard offer a practical approach to designing and managing safer, more inclusive parks. 
 
 :::
+
+::::
