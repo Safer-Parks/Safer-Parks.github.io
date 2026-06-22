@@ -10,7 +10,7 @@ format:
 
 ## Research Team
 
-![](assets/team/Untitled.png){fig-align="center" width="100%" alt="Safer Parks Dashboard research team"}
+![](assets/team/parks_research_team_image.png){fig-align="center" width="100%" alt="Safer Parks Dashboard research team"}
 
 [Collaboration driving safer public spaces ]{.emphasis}
 
