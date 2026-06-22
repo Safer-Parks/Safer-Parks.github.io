@@ -1,5 +1,68 @@
 [
   {
+    "objectID": "partners.html#research-team",
+    "href": "partners.html#research-team",
+    "title": "Collaborators",
+    "section": "Research Team",
+    "text": "Research Team\n\n\n\n\n\n\nDr Anna Barker\n\nInternationally recognised expert in women’s safety in public spaces and parks.\nAssociate Professor in Criminal Justice & Criminology\n\nDr Fran Pontin\n\nUrban data scientist specialising in open data, dashboards, and spatial inequalities\nLecturer & Senior Research Fellow\n\nDr Maeve Murphy Quinlan\n\nResearch software engineer leading open-source dashboard and scalable tool development.\nReserach Software Engineer\n\nDr Vikki Houlden\n\nUrban data scientist focusing on inclusive greenspace, wellbeing, and spatial inequalities.\nAssociate Professor in Urban Data Science\n\nDr Melissa Barrientos\n\nSpatial design specialist developing gender-sensitive metrics for park safety.\nResearch Fellow\n\n\nCollaboration driving safer public spaces\nIn addition to the core research team, the Safer Parks Dashboard has been shaped through close collaboration with organisations committed to improving safety, access, and inclusion in parks.\nThe work has been assisted by partners, funders, and supporters, who have provided expertise, resources, and guidance throughout the project. Their contributions have been invaluable in ensuring that the dashboard reflects the needs and priorities of communities across West Yorkshire."
+  },
+  {
+    "objectID": "partners.html#partners-and-funders",
+    "href": "partners.html#partners-and-funders",
+    "title": "Collaborators",
+    "section": "Partners and Funders",
+    "text": "Partners and Funders"
+  },
+  {
+    "objectID": "partners.html#illustrations-and-brand-identity",
+    "href": "partners.html#illustrations-and-brand-identity",
+    "title": "Collaborators",
+    "section": "Illustrations and brand identity",
+    "text": "Illustrations and brand identity"
+  },
+  {
+    "objectID": "partners.html#supporters",
+    "href": "partners.html#supporters",
+    "title": "Collaborators",
+    "section": "Supporters",
+    "text": "Supporters\nIf you are taking part in the pilot study, and are happy for your logo to be shown here, please let us know!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Safer Parks Dashboard!",
+    "section": "",
+    "text": "Welcome to the Safer Parks Dashboard!\nSupporting safer, more inclusive parks for women and girls\n\n\n\n\n\nVisualise park safety factors\nExplore spatial data layers\nMake decisions with evidence\nCreate safer parks in your area\n\n\n\n\n\n\n\n\n\n\n\n\nLaunch the dashboard\n\n\n\nUser testing in progress\nThis dashboard is currently in user testing. Datasets, text, and layout are not finalised and we are actively building and improving the output based on user feedback Please excuse us as we develop in the open!\n\nReport something broken Complete pilot user survey\n\n\n\nWarranty and liability (click to expand)\n\nThe software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.\n\n\n\n\nThe Safer Parks Dashboard helps local authorities, police forces, and community partners understand the environmental and social factors that shape how safe women and girls feel in parks.\nIt brings together open spatial data on the indicators that matter most, including lighting, visibility, entrances and escape routes, crime patterns, footfall, and park facilities.\nAligned with the Safer Parks: Improving Access to Women and Girls guidance, the dashboard provides a clear evidence base to support better design, management, and prevention activity.\nExplore the data to see how this tool can support your work in creating parks that feel welcoming, inclusive, and safe for everyone.\n\nHero section illustration credit: Harper Perry.\n\n\n\n\n\n\n© University of Leeds, 2025 | About | Privacy & Cookies | Accessibility\n\n\nUpdate cookies preferences"
+  },
+  {
+    "objectID": "launch.html",
+    "href": "launch.html",
+    "title": "Select your region",
+    "section": "",
+    "text": "Please select your region from the list below to launch the relevant view on the dashboard. You can also scroll down to the map below to check which region you are in. The map is interactive, so you can zoom in and out to see the regions more clearly. Please note that simplified geometries are used for the map to improve performance, so some regions may appear slightly different from their actual boundaries.\nTip: bookmark your region’s dashboard view for quick access in the future."
+  },
+  {
+    "objectID": "launch.html#coming-soon",
+    "href": "launch.html#coming-soon",
+    "title": "Select your region",
+    "section": "Coming soon:",
+    "text": "Coming soon:\n\nIn-dashboard feature guide: we will be directly linking to the relevant section of the data layers guide from the dashboard, so you can quickly understand what each feature represents. This will be shown as a pop-up when you click on the feature name in the legend.\nExtended datasets: we will be adding further datasets to the dashboard; if you spot a dataset that you think should be available for your area but isn’t please let us know!\nDemographics plots: we will be adding user-friendly plots to help you understand and use the demographics data provided for the larger park catchment areas. This will be shown as a pop-up when you click on the demographics layer in the legend.\n“Print-park” function: currently, downloading a static version of the park map must be done manually using your ocmputer’s screen-capture function. We will be adding a “print-park” function to the dashboard so you can download a static version of the map with all the features and layers you have selected.\nDirect download link: as per the previous iteration of the dashboard, we will be adding a “download dataset” button to the dashboard so you can download the datasets for your selected park/area directly from the dashboard and analyse them on your machine using your chosen GIS software."
+  },
+  {
+    "objectID": "launch.html#england",
+    "href": "launch.html#england",
+    "title": "Select your region",
+    "section": "England",
+    "text": "England\n\n\nEast Midlands, Dwyrain y Canolbarth (ID: E12000004)\nEast of England, Dwyrain Lloegr (ID: E12000004)\nLondon, Llundain (ID: E12000007)\nNorth East, Gogledd Ddwyrain (ID: E12000001)\nNorth West, Gogledd Orllewin (ID: E12000002)\nSouth East, De Ddwyrain (ID: E12000008)\nSouth West, De Orllewin (ID: E12000009)\nWest Midlands, Gorllewin y Canolbarth (ID: E12000005)\nYorkshire and The Humber, Swydd Efrog a Humber (ID: E12000003)"
+  },
+  {
+    "objectID": "launch.html#wales",
+    "href": "launch.html#wales",
+    "title": "Select your region",
+    "section": "Wales",
+    "text": "Wales\n\n\nCanol De Cymru, South Wales Central (ID: W10000007)\nCanolbarth a Gorllewin Cymru, Mid and West Wales (ID: W10000006)\nDwyrain De Cymru, South Wales East (ID: W10000008)\nGogledd Cymru, North Wales (ID: W10000001)\nGorllewin De Cymru, South Wales West (ID: W10000009)"
+  },
+  {
     "objectID": "data.html#html-version-of-table",
     "href": "data.html#html-version-of-table",
     "title": "Data & Methods",
@@ -77,55 +140,6 @@
     "text": "10. Your rights as a data subject\nUnder the GDPR, in certain circumstances, you have the right to:\n\nwithdraw your consent to our processing of your personal data where that is the legal basis for such processing\naccess any of your personal data which we hold\nhave your personal data which we hold corrected if it is inaccurate\nhave any of your personal data which we hold erased\nrestrict the ways in which we process your personal data\nobject to our processing of your personal data\nreceive a copy of any of your personal data which we hold in a structured and commonly used machine-readable format\nin certain cases not be subject to a decision based solely on automated decision making\nlodge a complaint with a supervisory authority"
   },
   {
-    "objectID": "about.html#a-practical-tool-to-strengthen-park-safety-design-and-decisionmaking",
-    "href": "about.html#a-practical-tool-to-strengthen-park-safety-design-and-decisionmaking",
-    "title": "About",
-    "section": "A practical tool to strengthen park safety, design, and decision‑making",
-    "text": "A practical tool to strengthen park safety, design, and decision‑making\n\nThe Safer Parks Dashboard has been developed to support professionals working across crime prevention, parks management, and place‑shaping. It brings together open spatial data and the principles of safer park design to provide clear, actionable insight into improving feelings of safety for women and girls.\n\n\n\nThe Safer Parks guidance\n\n\nUsing the dashboard, partners can:\n\n\nidentify where lighting, visibility, or access improvements may be needed\nunderstand movement patterns and likely footfall using network analysis (in development)\nassess park entrances, unofficial access points, and escape routes\nreview amenities such as benches, toilets, and play areas at both site and regional level\n\n\n\n\n\n\n\nOverview of a park highlighting the key principles of safer park design, from the Safer Parks: Improving Access for Women and Girls guidance; illustration credit: Harper Perry.\n\n\n\n\nBy combining data layers, police and councils can target resources more effectively, aid scanning and analysis stages of SARA model problem-solving, inform Environmental Visual Audits, enhance patrol planning, undertake accessibility audits and strengthen park management plans. Friends of Parks groups and community organisations can also use the tool to inform local projects, identify opportunities, and collaborate with authorities.\n\nOur aim is simple: to make parks feel safer and more welcoming for women and girls, and to support the prevention of violence against women and girls (VAWG) in public spaces."
-  },
-  {
-    "objectID": "about.html#the-evidence-base-behind-the-dashboard",
-    "href": "about.html#the-evidence-base-behind-the-dashboard",
-    "title": "About",
-    "section": "The evidence base behind the dashboard",
-    "text": "The evidence base behind the dashboard\n\nThe dashboard is grounded in Safer Parks: Improving Access for Women and Girls, guidance developed through extensive research and engagement with women and teenage girls, parks managers, urban designers, police, and others. This research identified the environmental and social factors that most influence feelings of safety and the guidance sets out ten guiding principles for safer park design and management, organised across three themes:\n\n\n\n\n\nEyes on the Park\nSafety increases when parks feel welcoming, and well‑used. Everyday activity, programmed events, and routine footfall create natural surveillance. Visible, skilled staff and volunteers signal that the space is cared for and monitored.\n\n\nBusyness and Activation\nStaffing and Authority Figures\n\n\n\n\n\n\nAwareness\nDesign features that support awareness such as good visibility, suitable lighting, open sightlines and layouts that are easy to navigate help users feel secure. These elements reduce uncertainty, make escape routes clear, and help people intuitively understand the space around them.\n\n\nVisibility and Openness\nEscape\nLighting\nWayfinding and Layout\n\n\n\n\n\n\nInclusion\nA sense of belonging plays a vital role in safety. Inclusion means co‑producing parks with communities from early design through long‑term management, and creating environments that feel welcoming, familiar, and reflective of diverse needs and identities.\n\n\nBelonging and Familiarity\nImage\nAccess and Location\nCo-production and Engagement\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEncouraging regular business users, such as personal trainers, can make the space feel safer.\nClasses in the park can include a wide range of activities, not just exercise.\nPromoting active travel increases overall use of the park.\n\n\n\n\nRaising the height of tree canopies and planting low bushes by paths improves visibility.\nHills and mounds with an S-shaped profile creates better visibility.\nBuilding in hills or other high places can give good prospect around.\n\n\n\n\nA choice of routes and exits improves the feeling of safety.\nThe entrances to a park should be wide and clearly visible.\nFenced areas feel very unsafe to teenage girls so other design approaches are more inclusive.\n\n\n\n\nThree themes/ten guiding principles text and images from the Safer Parks: Improving Access for Women and Girls guidance; illustrations by Harper Perry."
-  },
-  {
-    "objectID": "about.html#how-this-evidence-is-translated-into-practice",
-    "href": "about.html#how-this-evidence-is-translated-into-practice",
-    "title": "About",
-    "section": "How this evidence is translated into practice",
-    "text": "How this evidence is translated into practice\n\nThe Safer Parks Dashboard puts this guidance into action by mapping open spatial data—including calculated entrances, visibility modelling, predicted footfall, lighting density, crime patterns, and facilities. Developed through ongoing co‑design with partners, including local authorities, police, and community groups, the dashboard reflects real operational needs and challenges.\nA data‑driven approach can strengthen decision‑making, support VAWG prevention, and enable targeted improvements that increase women’s and girls’ confidence, access, and use of parks.\nTogether, the guidance and the dashboard offer a practical approach to designing and managing safer, more inclusive parks."
-  },
-  {
-    "objectID": "partners.html#research-team",
-    "href": "partners.html#research-team",
-    "title": "Collaborators",
-    "section": "Research Team",
-    "text": "Research Team\n\n\n\n\n\n\nDr Anna Barker\n\nInternationally recognised expert in women’s safety in public spaces and parks.\nAssociate Professor in Criminal Justice & Criminology\n\nDr Fran Pontin\n\nUrban data scientist specialising in open data, dashboards, and spatial inequalities\nLecturer & Senior Research Fellow\n\nDr Maeve Murphy Quinlan\n\nResearch software engineer leading open-source dashboard and scalable tool development.\nReserach Software Engineer\n\nDr Vikki Houlden\n\nUrban data scientist focusing on inclusive greenspace, wellbeing, and spatial inequalities.\nAssociate Professor in Urban Data Science\n\nDr Melissa Barrientos\n\nSpatial design specialist developing gender-sensitive metrics for park safety.\nResearch Fellow\n\n\nCollaboration driving safer public spaces\nIn addition to the core research team, the Safer Parks Dashboard has been shaped through close collaboration with organisations committed to improving safety, access, and inclusion in parks.\nThe work has been assisted by partners, funders, and supporters, who have provided expertise, resources, and guidance throughout the project. Their contributions have been invaluable in ensuring that the dashboard reflects the needs and priorities of communities across West Yorkshire."
-  },
-  {
-    "objectID": "partners.html#partners-and-funders",
-    "href": "partners.html#partners-and-funders",
-    "title": "Collaborators",
-    "section": "Partners and Funders",
-    "text": "Partners and Funders"
-  },
-  {
-    "objectID": "partners.html#illustrations-and-brand-identity",
-    "href": "partners.html#illustrations-and-brand-identity",
-    "title": "Collaborators",
-    "section": "Illustrations and brand identity",
-    "text": "Illustrations and brand identity"
-  },
-  {
-    "objectID": "partners.html#supporters",
-    "href": "partners.html#supporters",
-    "title": "Collaborators",
-    "section": "Supporters",
-    "text": "Supporters\nIf you are taking part in the pilot study, and are happy for your logo to be shown here, please let us know!"
-  },
-  {
     "objectID": "guide.html",
     "href": "guide.html",
     "title": "How to use",
@@ -189,39 +203,25 @@
     "text": "Appendix: Dashboard Layers and Crime Prevention Frameworks\nThe Safer Parks Dashboard layers have been designed in alignment with the Safer Parks guidance (Safer Parks Consortium, 2025). They also connect to broader crime prevention frameworks, including the Ten Principles of Crime Prevention developed by Secured by Design, and the evidence base on effective interventions to reduce violence against women and girls in public spaces (Home Office, 2025). The table below maps each dashboard layer to the most relevant crime prevention principle, where applicable.\n\n\n\n\n\n\n\n\n\nData layer\n\n\nRelevant principle\n\n\nSummary\n\n\n\n\n\n\nPark Boundary\n\n\n—\n\n\n—\n\n\n\n\nAccess and Exit Points\n\n\nPrinciple 5: Access Control\n\n\nReducing or managing access to vulnerable areas limits criminal opportunity. Understanding entry and exit points supports decisions about park access design and management.\n\n\n\n\nActive Travel Route\n\n\n—\n\n\n—\n\n\n\n\nBasemap\n\n\n—\n\n\n—\n\n\n\n\nPredicted Route Popularity\n\n\nPrinciple 6: Surveillance\n\n\nNatural surveillance is strengthened by the presence of people. Routes with higher footfall support informal surveillance through activity and visibility.\n\n\n\n\nVisibility Analysis\n\n\nPrinciple 6: Surveillance\n\n\nClear sightlines support natural surveillance. Areas with poor visibility may reduce the perception of safety and limit informal oversight.\n\n\n\n\nDemographics Data\n\n\n—\n\n\n—\n\n\n\n\nPark Features\n\n\nPrinciple 7: Environmental Change\n\n\nWell-designed and maintained environments are less likely to experience crime. Facilities and amenities attract activity and contribute to a sense of care and ownership of space.\n\n\n\n\nTrees\n\n\nPrinciple 7: Environmental Change\n\n\nVegetation contributes to environmental quality but can also reduce sightlines. Thoughtful planting and maintenance support both amenity and safety.\n\n\n\n\nStreet Lighting\n\n\nPrinciples 6 and 9: Surveillance; Increase the Chances of Being Caught\n\n\nLighting supports both natural and formal surveillance and increases the likelihood that offenders will be seen and identified.\n\n\n\n\nBenches and Picnic Tables\n\n\nPrinciple 7: Environmental Change\n\n\nSeating encourages people to spend time in parks, increasing natural surveillance and a sense of community ownership of space.\n\n\n\n\nReferences\nSafer Parks Consortium. (2025). Safer Parks: Improving Access for Women and Girls (2nd ed.). Leeds: University of Leeds. https://doi.org/10.48785/100/352\nSecured by Design. (n.d.). The ten principles of crime prevention. https://crimeprevention.securedbydesign.com/the-ten-principles-of-crime-prevention\nHome Office. (2025). What works to reduce violence against women and girls: A summary of the evidence. Crown copyright. https://assets.publishing.service.gov.uk/media/6943f8a5143d960161547e74/31.260_VAWG_03_Evidence_Review_FINAL_181225_WEB.pdf\nDepartment for Environment, Food & Rural Affairs (DEFRA). (2022). LiDAR composite digital surface model and digital terrain model. Data.gov.uk. https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme\nOpenStreetMap contributors. (2024). OpenStreetMap data via Geofabrik. https://download.geofabrik.de/"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the Safer Parks Dashboard!",
-    "section": "",
-    "text": "Welcome to the Safer Parks Dashboard!\nSupporting safer, more inclusive parks for women and girls\n\n\n\n\n\nVisualise park safety factors\nExplore spatial data layers\nMake decisions with evidence\nCreate safer parks in your area\n\n\n\n\n\n\n\n\n\n\n\n\nLaunch the dashboard\n\n\n\nUser testing in progress\nThis dashboard is currently in user testing. Datasets, text, and layout are not finalised and we are actively building and improving the output based on user feedback Please excuse us as we develop in the open!\n\nReport something broken Complete pilot user survey\n\n\n\nWarranty and liability (click to expand)\n\nThe software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.\n\n\n\n\nThe Safer Parks Dashboard helps local authorities, police forces, and community partners understand the environmental and social factors that shape how safe women and girls feel in parks.\nIt brings together open spatial data on the indicators that matter most, including lighting, visibility, entrances and escape routes, crime patterns, footfall, and park facilities.\nAligned with the Safer Parks: Improving Access to Women and Girls guidance, the dashboard provides a clear evidence base to support better design, management, and prevention activity.\nExplore the data to see how this tool can support your work in creating parks that feel welcoming, inclusive, and safe for everyone.\n\nHero section illustration credit: Harper Perry.\n\n\n\n\n\n\n© University of Leeds, 2025 | About | Privacy & Cookies | Accessibility\n\n\nUpdate cookies preferences"
+    "objectID": "about.html#a-practical-tool-to-strengthen-park-safety-design-and-decisionmaking",
+    "href": "about.html#a-practical-tool-to-strengthen-park-safety-design-and-decisionmaking",
+    "title": "About",
+    "section": "A practical tool to strengthen park safety, design, and decision‑making",
+    "text": "A practical tool to strengthen park safety, design, and decision‑making\n\nThe Safer Parks Dashboard has been developed to support professionals working across crime prevention, parks management, and place‑shaping. It brings together open spatial data and the principles of safer park design to provide clear, actionable insight into improving feelings of safety for women and girls.\n\n\n\nThe Safer Parks guidance\n\n\nUsing the dashboard, partners can:\n\n\nidentify where lighting, visibility, or access improvements may be needed\nunderstand movement patterns and likely footfall using network analysis (in development)\nassess park entrances, unofficial access points, and escape routes\nreview amenities such as benches, toilets, and play areas at both site and regional level\n\n\n\n\n\n\n\nOverview of a park highlighting the key principles of safer park design, from the Safer Parks: Improving Access for Women and Girls guidance; illustration credit: Harper Perry.\n\n\n\n\nBy combining data layers, police and councils can target resources more effectively, aid scanning and analysis stages of SARA model problem-solving, inform Environmental Visual Audits, enhance patrol planning, undertake accessibility audits and strengthen park management plans. Friends of Parks groups and community organisations can also use the tool to inform local projects, identify opportunities, and collaborate with authorities.\n\nOur aim is simple: to make parks feel safer and more welcoming for women and girls, and to support the prevention of violence against women and girls (VAWG) in public spaces."
   },
   {
-    "objectID": "launch.html",
-    "href": "launch.html",
-    "title": "Select your region",
-    "section": "",
-    "text": "Please select your region from the list below to launch the relevant view on the dashboard. You can also scroll down to the map below to check which region you are in. The map is interactive, so you can zoom in and out to see the regions more clearly. Please note that simplified geometries are used for the map to improve performance, so some regions may appear slightly different from their actual boundaries.\nTip: bookmark your region’s dashboard view for quick access in the future."
+    "objectID": "about.html#the-evidence-base-behind-the-dashboard",
+    "href": "about.html#the-evidence-base-behind-the-dashboard",
+    "title": "About",
+    "section": "The evidence base behind the dashboard",
+    "text": "The evidence base behind the dashboard\n\nThe dashboard is grounded in Safer Parks: Improving Access for Women and Girls, guidance developed through extensive research and engagement with women and teenage girls, parks managers, urban designers, police, and others. This research identified the environmental and social factors that most influence feelings of safety and the guidance sets out ten guiding principles for safer park design and management, organised across three themes:\n\n\n\n\n\nEyes on the Park\nSafety increases when parks feel welcoming, and well‑used. Everyday activity, programmed events, and routine footfall create natural surveillance. Visible, skilled staff and volunteers signal that the space is cared for and monitored.\n\n\nBusyness and Activation\nStaffing and Authority Figures\n\n\n\n\n\n\nAwareness\nDesign features that support awareness such as good visibility, suitable lighting, open sightlines and layouts that are easy to navigate help users feel secure. These elements reduce uncertainty, make escape routes clear, and help people intuitively understand the space around them.\n\n\nVisibility and Openness\nEscape\nLighting\nWayfinding and Layout\n\n\n\n\n\n\nInclusion\nA sense of belonging plays a vital role in safety. Inclusion means co‑producing parks with communities from early design through long‑term management, and creating environments that feel welcoming, familiar, and reflective of diverse needs and identities.\n\n\nBelonging and Familiarity\nImage\nAccess and Location\nCo-production and Engagement\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEncouraging regular business users, such as personal trainers, can make the space feel safer.\nClasses in the park can include a wide range of activities, not just exercise.\nPromoting active travel increases overall use of the park.\n\n\n\n\nRaising the height of tree canopies and planting low bushes by paths improves visibility.\nHills and mounds with an S-shaped profile creates better visibility.\nBuilding in hills or other high places can give good prospect around.\n\n\n\n\nA choice of routes and exits improves the feeling of safety.\nThe entrances to a park should be wide and clearly visible.\nFenced areas feel very unsafe to teenage girls so other design approaches are more inclusive.\n\n\n\n\nThree themes/ten guiding principles text and images from the Safer Parks: Improving Access for Women and Girls guidance; illustrations by Harper Perry."
   },
   {
-    "objectID": "launch.html#coming-soon",
-    "href": "launch.html#coming-soon",
-    "title": "Select your region",
-    "section": "Coming soon:",
-    "text": "Coming soon:\n\nIn-dashboard feature guide: we will be directly linking to the relevant section of the data layers guide from the dashboard, so you can quickly understand what each feature represents. This will be shown as a pop-up when you click on the feature name in the legend.\nExtended datasets: we will be adding further datasets to the dashboard; if you spot a dataset that you think should be available for your area but isn’t please let us know!\nDemographics plots: we will be adding user-friendly plots to help you understand and use the demographics data provided for the larger park catchment areas. This will be shown as a pop-up when you click on the demographics layer in the legend.\n“Print-park” function: currently, downloading a static version of the park map must be done manually using your ocmputer’s screen-capture function. We will be adding a “print-park” function to the dashboard so you can download a static version of the map with all the features and layers you have selected.\nDirect download link: as per the previous iteration of the dashboard, we will be adding a “download dataset” button to the dashboard so you can download the datasets for your selected park/area directly from the dashboard and analyse them on your machine using your chosen GIS software."
-  },
-  {
-    "objectID": "launch.html#england",
-    "href": "launch.html#england",
-    "title": "Select your region",
-    "section": "England",
-    "text": "England\n\n\nEast Midlands, Dwyrain y Canolbarth (ID: E12000004)\nEast of England, Dwyrain Lloegr (ID: E12000004)\nLondon, Llundain (ID: E12000007)\nNorth East, Gogledd Ddwyrain (ID: E12000001)\nNorth West, Gogledd Orllewin (ID: E12000002)\nSouth East, De Ddwyrain (ID: E12000008)\nSouth West, De Orllewin (ID: E12000009)\nWest Midlands, Gorllewin y Canolbarth (ID: E12000005)\nYorkshire and The Humber, Swydd Efrog a Humber (ID: E12000003)"
-  },
-  {
-    "objectID": "launch.html#wales",
-    "href": "launch.html#wales",
-    "title": "Select your region",
-    "section": "Wales",
-    "text": "Wales\n\n\nCanol De Cymru, South Wales Central (ID: W10000007)\nCanolbarth a Gorllewin Cymru, Mid and West Wales (ID: W10000006)\nDwyrain De Cymru, South Wales East (ID: W10000008)\nGogledd Cymru, North Wales (ID: W10000001)\nGorllewin De Cymru, South Wales West (ID: W10000009)"
+    "objectID": "about.html#how-this-evidence-is-translated-into-practice",
+    "href": "about.html#how-this-evidence-is-translated-into-practice",
+    "title": "About",
+    "section": "How this evidence is translated into practice",
+    "text": "How this evidence is translated into practice\n\nThe Safer Parks Dashboard puts this guidance into action by mapping open spatial data—including calculated entrances, visibility modelling, predicted footfall, lighting density, crime patterns, and facilities. Developed through ongoing co‑design with partners, including local authorities, police, and community groups, the dashboard reflects real operational needs and challenges.\nA data‑driven approach can strengthen decision‑making, support VAWG prevention, and enable targeted improvements that increase women’s and girls’ confidence, access, and use of parks.\nTogether, the guidance and the dashboard offer a practical approach to designing and managing safer, more inclusive parks."
   },
   {
     "objectID": "privacy_old.html#privacy-policy",
