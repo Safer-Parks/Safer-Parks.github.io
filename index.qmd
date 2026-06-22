@@ -14,10 +14,10 @@ toc: false
 <br>
 
 :::::{.larger-bullets}
-- Visualise park safety factors
-- Explore spatial data layers
-- Make decisions with evidence
-- Create safer parks in your area
+- Visualise park safety factors,
+- Explore spatial data layers,
+- Make decisions with evidence,
+- Create safer parks in your area.
 :::::
 
 
