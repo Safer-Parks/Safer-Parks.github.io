@@ -44,7 +44,7 @@ This dashboard is currently in user testing. Datasets, text, and layout are not 
 
 
 ::::{.d-flex .justify-content-center}
-[Report something broken](https://safer-parks.github.io/archived-dashboard-wyca/dashboard.html){.btn .btn-primary .btn-lg .rounded-pill} [Complete pilot user survey](https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y3CZNq81K0JPjDKGeEpvxNlUMlY4NlI1OTBLVUtHVFFONkpWRUYxOEVYNi4u){.btn .btn-primary .btn-lg .rounded-pill} 
+[Report something broken](https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y7F71Nw9669Pjl45v2S4qgtURTNCQzlWR01UQzNFV0pEVTM2OFlON0RHTS4u){.btn .btn-primary .btn-lg .rounded-pill} [Complete pilot user survey](https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y3CZNq81K0JPjDKGeEpvxNlUMlY4NlI1OTBLVUtHVFFONkpWRUYxOEVYNi4u){.btn .btn-primary .btn-lg .rounded-pill} 
 ::::
 
 
