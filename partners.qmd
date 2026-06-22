@@ -12,6 +12,26 @@ format:
 
 ![](assets/team/parks_research_team_image.png){fig-align="center" width="100%" alt="Safer Parks Dashboard research team"}
 
+- Dr Anna Barker
+  - Internationally recognised expert in women’s safety in public spaces and parks.
+  - [Associate Professor in Criminal Justice & Criminology](https://essl.leeds.ac.uk/law/staff/177/dr-anna-barker)
+
+- Dr Fran Pontin
+  - Urban data scientist specialising in open data, dashboards, and spatial inequalities
+  - [Lecturer & Senior Research Fellow](https://environment.leeds.ac.uk/geography/staff/8970/dr-fran-pontin)
+
+- Dr Maeve Murphy Quinlan
+  - Research software engineer leading open-source dashboard and scalable tool development. 
+  - [Reserach Software Engineer](https://arc.leeds.ac.uk/team/maeve-murphy-quinlan/)
+
+- Dr Vikki Houlden
+  - Urban data scientist focusing on inclusive greenspace, wellbeing, and spatial inequalities. 
+  - [Associate Professor in Urban Data Science](https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden)
+
+- Dr Melissa Barrientos
+  - Spatial design specialist developing gender-sensitive metrics for park safety.
+  - [Research Fellow](https://www.researchgate.net/profile/Melissa-Barrientos)
+
 [Collaboration driving safer public spaces ]{.emphasis}
 
 In addition to the core research team, the Safer Parks Dashboard has been shaped through close collaboration with organisations committed to improving safety, access, and inclusion in parks. 

@@ -9,7 +9,7 @@ Safer Parks Dashboard.
 
 :::{.text-box3}
 
-The dashboard is an interactive tool that uses open spatial data to help practitioners improve safety and inclusion in parks and green spaces across England and Wales. It supports the [*Safer Parks: Improving Access to Women and Girls* guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf) by enabling evidence-led decisions in design, management and policing. 
+The dashboard is an interactive tool that uses open spatial data to help practitioners improve safety and inclusion in parks and green spaces across England and Wales. It supports the [*Safer Parks: Improving Access to Women and Girls* guidance](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf) by enabling evidence-led decisions in design, management and policing. 
 
 This should be read alongside the guidance, with each data layer linked to relevant sections. 
 
@@ -17,7 +17,7 @@ This should be read alongside the guidance, with each data layer linked to relev
 
 :::{.column-body-outset}
 
-![Isometric sketch of park by [Harper Perry](www.harperperry.co.uk) for the the [*Safer Parks: Improving Access for Women and Girls* guidance](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance).](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="90%" fig-alt="An isometric sketch of a park with trees, paths, benches, and a playground."}
+![Isometric sketch of park by [Harper Perry](www.harperperry.co.uk) for the the [*Safer Parks: Improving Access for Women and Girls* guidance](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf).](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="90%" fig-alt="An isometric sketch of a park with trees, paths, benches, and a playground."}
 :::
 
 
@@ -30,6 +30,8 @@ Each layer represents a different aspect of park safety and inclusion. Used on i
 ### Using combined data layers
 
 The dashboard is most effective when layers are used together. Park safety and inclusion is shaped by multiple factors, for example, a busy route might be poorly lit, or an access point might be obscured by dense vegetation. Combining layers helps build a clear, more complete understanding of where  spaces may feel or be less safe. Suggested layer combinations are provided in Section 4.
+
+![How might different groups use the dashboard to improve participation and safety for women and girls in parks?](assets/how_to_use.png){fig-align="center" width="70%" alt="Cartoon showing different use-cases, including local authorities, policing, community organisations, and designers and planners."}
 
 # Data layer guidance
 
