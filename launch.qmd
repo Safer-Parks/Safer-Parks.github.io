@@ -1,0 +1,75 @@
+---
+title: "Select your region"
+toc: false
+---
+
+Please select your region from the list below to launch the relevant view on the dashboard. You can also scroll down to the map below to check which region you are in. The map is interactive, so you can zoom in and out to see the regions more clearly. Please note that simplified geometries are used for the map to improve performance, so some regions may appear slightly different from their actual boundaries.
+
+Tip: bookmark your region's dashboard view for quick access in the future.
+
+::: {.callout-note appearance="simple" collapse="true"}
+## Before you browse!
+
+- The data layers guide is linked from the top navbar of the dashboard, please keep this open alongside the dashboard to understand what each layer represents, and to understand the assumptions and limitations of the data.
+- Please note you may need to zoom out to see features near the park, e.g.  toilets, the National Cycle Network, etc.
+- First, choose an authority/area. Then, you can zoom and select a park from the map or from the drop-down menu.
+- Most features have additional information that will be shown when you click on them, e.g. the name of a park, or the type of feature (e.g. a toilet, a cycle route, etc.); explore the map and hover/click over datasets.
+
+## Coming soon:
+
+- In-dashboard feature guide: we will be directly linking to the relevant section of the data layers guide from the dashboard, so you can quickly understand what each feature represents. This will be shown as a pop-up when you click on the feature name in the legend.
+- Extended datasets: we will be adding further datasets to the dashboard; if you spot a dataset that you think should be available for your area but isn't please let us know!
+- Demographics plots: we will be adding user-friendly plots to help you understand and use the demographics data provided for the larger park catchment areas. This will be shown as a pop-up when you click on the demographics layer in the legend.
+- "Print-park" function: currently, downloading a static version of the park map must be done manually using your ocmputer's screen-capture function. We will be adding a "print-park" function to the dashboard so you can download a static version of the map with all the features and layers you have selected.
+- Direct download link: as per the previous iteration of the dashboard, we will be adding a "download dataset" button to the dashboard so you can download the datasets for your selected park/area directly from the dashboard and analyse them on your machine using your chosen GIS software.
+
+:::
+
+:::::{.column-screen-inset}
+
+::::{.grid}
+
+::: {.g-col-12 .g-col-md-6 }
+
+## England
+
+::::::{.larger-bullets3}
+
+- [East Midlands, Dwyrain y Canolbarth (ID: E12000004)](https://safer-parks.github.io/E12000004/)
+- [East of England, Dwyrain Lloegr (ID: E12000004)](https://safer-parks.github.io/E12000004/)
+- [London, Llundain (ID: E12000007)](https://safer-parks.github.io/E12000007/)
+- [North East, Gogledd Ddwyrain (ID: E12000001)](https://safer-parks.github.io/E12000001/)
+- [North West, Gogledd Orllewin (ID: E12000002)](https://safer-parks.github.io/E12000002/)
+- [South East, De Ddwyrain (ID: E12000008)](https://safer-parks.github.io/E12000008/)
+- [South West, De Orllewin (ID: E12000009)](https://safer-parks.github.io/E12000009/)
+- [West Midlands, Gorllewin y Canolbarth (ID: E12000005)](https://safer-parks.github.io/E12000005/)
+- [Yorkshire and The Humber, Swydd Efrog a Humber (ID: E12000003)](https://safer-parks.github.io/E12000003/)
+
+::::::
+
+:::
+
+::: {.g-col-12 .g-col-md-6 }
+
+## Wales
+
+::::::{.larger-bullets3}
+
+- [Canol De Cymru, South Wales Central (ID: W10000007)](https://safer-parks.github.io/W10000007/)
+- [Canolbarth a Gorllewin Cymru, Mid and West Wales (ID: W10000006)](https://safer-parks.github.io/W10000006/)
+- [Dwyrain De Cymru, South Wales East (ID: W10000008)](https://safer-parks.github.io/W10000008/)
+- [Gogledd Cymru, North Wales (ID: W10000001)](https://safer-parks.github.io/W10000001/)
+- [Gorllewin De Cymru, South Wales West (ID: W10000009)](https://safer-parks.github.io/W10000009/)
+
+::::::
+:::
+
+::::
+
+:::::
+
+:::{.column-screen-inset}
+
+![](assets/maps/region_map.html){width="100%" height="800px"}
+
+:::
