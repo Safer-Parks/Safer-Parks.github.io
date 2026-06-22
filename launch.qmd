@@ -35,15 +35,15 @@ Tip: bookmark your region's dashboard view for quick access in the future.
 
 ::::::{.larger-bullets3}
 
-- [East Midlands, Dwyrain y Canolbarth (ID: E12000004)](#)
-- [East of England, Dwyrain Lloegr (ID: E12000006)](#)
-- [London, Llundain (ID: E12000007)](#)
-- [North East, Gogledd Ddwyrain (ID: E12000001)](#)
-- [North West, Gogledd Orllewin (ID: E12000002)](#)
-- [South East, De Ddwyrain (ID: E12000008)](#)
-- [South West, De Orllewin (ID: E12000009)](#)
-- [West Midlands, Gorllewin y Canolbarth (ID: E12000005)](#)
-- [Yorkshire and The Humber, Swydd Efrog a Humber (ID: E12000003)](#)
+- [East Midlands, Dwyrain y Canolbarth (ID: E12000004)](https://safer-parks.github.io/E12000004/)
+- [East of England, Dwyrain Lloegr (ID: E12000004)](https://safer-parks.github.io/E12000004/)
+- [London, Llundain (ID: E12000007)](https://safer-parks.github.io/E12000007/)
+- [North East, Gogledd Ddwyrain (ID: E12000001)](https://safer-parks.github.io/E12000001/)
+- [North West, Gogledd Orllewin (ID: E12000002)](https://safer-parks.github.io/E12000002/)
+- [South East, De Ddwyrain (ID: E12000008)](https://safer-parks.github.io/E12000008/)
+- [South West, De Orllewin (ID: E12000009)](https://safer-parks.github.io/E12000009/)
+- [West Midlands, Gorllewin y Canolbarth (ID: E12000005)](https://safer-parks.github.io/E12000005/)
+- [Yorkshire and The Humber, Swydd Efrog a Humber (ID: E12000003)](https://safer-parks.github.io/E12000003/)
 
 ::::::
 
@@ -55,11 +55,11 @@ Tip: bookmark your region's dashboard view for quick access in the future.
 
 ::::::{.larger-bullets3}
 
-- [Canol De Cymru, South Wales Central (ID: W10000007)](#)
-- [Canolbarth a Gorllewin Cymru, Mid and West Wales (ID: W10000006)](#)
-- [Dwyrain De Cymru, South Wales East (ID: W10000008)](#)
-- [Gogledd Cymru, North Wales (ID: W10000001)](#)
-- [Gorllewin De Cymru, South Wales West (ID: W10000009)](#)
+- [Canol De Cymru, South Wales Central (ID: W10000007)](https://safer-parks.github.io/W10000007/)
+- [Canolbarth a Gorllewin Cymru, Mid and West Wales (ID: W10000006)](https://safer-parks.github.io/W10000006/)
+- [Dwyrain De Cymru, South Wales East (ID: W10000008)](https://safer-parks.github.io/W10000008/)
+- [Gogledd Cymru, North Wales (ID: W10000001)](https://safer-parks.github.io/W10000001/)
+- [Gorllewin De Cymru, South Wales West (ID: W10000009)](https://safer-parks.github.io/W10000009/)
 
 ::::::
 :::
