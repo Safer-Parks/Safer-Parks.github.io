@@ -31,7 +31,7 @@ Each layer represents a different aspect of park safety and inclusion. Used on i
 
 The dashboard is most effective when layers are used together. Park safety and inclusion is shaped by multiple factors, for example, a busy route might be poorly lit, or an access point might be obscured by dense vegetation. Combining layers helps build a clear, more complete understanding of where  spaces may feel or be less safe. Suggested layer combinations are provided in Section 4.
 
-![How might different groups use the dashboard to improve participation and safety for women and girls in parks?](assets/how_to_use.png){fig-align="center" width="70%" alt="Cartoon showing different use-cases, including local authorities, policing, community organisations, and designers and planners."}
+![How might different groups use the dashboard to improve participation and safety for women and girls in parks?](assets/Partners_graphic-2.png){fig-align="center" width="90%" alt="Cartoon showing different use-cases, including local authorities, policing, community organisations, and designers and planners."}
 
 # Data layer guidance
 
