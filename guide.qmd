@@ -577,7 +577,7 @@ Use this layer to understand where seating is—and is not—located within your
 For deeper insight, use alongside the *Visibility Analysis, Foliage,*
 *Predicted Route Popularity*, and *Street Lighting* layers.
 
-W### here is the data from?  
+### Where is the data from?  
 
 This layer uses Ordnance Survey and OpenStreetMap. 
 :::
