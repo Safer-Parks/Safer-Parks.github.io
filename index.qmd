@@ -2,11 +2,11 @@
 toc: false
 ---
 
-::: {.text-box}
+::: {.text-box style="text-align: center;"}
 
-We are launching the Safer Parks Dashboard across England and Wales on the 4th of November 2026.
+We are launching the Safer Parks Dashboard across England and Wales on the **4th of November 2026**.
 
-For those completing the 'Safer Parks: Improving Access for Women and Girls – Training for Professionals’ online training please continue with the course and come back to checkout the dashboard from the 04/11/26
+For those completing the *'Safer Parks: Improving Access for Women and Girls – Training for Professionals’* online training please continue with the course and come back to checkout the dashboard from the **04/11/26**
 
 
 <!-- <details>
