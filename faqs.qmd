@@ -1,12 +1,16 @@
+---
+toc: false
+---
+
 # Frequently Asked Questions 
 
 This page answers common questions about errors or missing information on the dashboard map and what can be corrected and how. For instructions on updating the basemap or fixing park features, also see the companion guide, ‘Reporting map errors in OpenStreetMap.’ 
 
-## Errors in the background map 
+## Errors in the basemap 
 
-### There is an error (or information, such as a nearby school, is missing) in the background map. Can you fix it? 
+### There is an error (or information, such as a nearby school, is missing) in the basemap. Can you fix it? 
 
-This is an issue we have encountered as well. The background map uses OpenStreetMap (OSM) data, the same source as our park features, so while we can't edit it ourselves inside the dashboard, you can correct it directly in OSM. Our guide 'Reporting map errors in OpenStreetMap' explains how. 
+This is an issue we have encountered as well. The basemap uses OpenStreetMap (OSM) data, the same source as our park features, so while we can't edit it ourselves inside the dashboard, you can correct it directly in OSM. Our guide 'Reporting map errors in OpenStreetMap' explains how. 
 
 ## A park feature is incorrect or not visible 
 
