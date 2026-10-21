@@ -30,7 +30,7 @@ We use open data and council data for this layer. Street lighting depends on the
 
 ## When was this data last updated? 
 
-Different layers come from different sources and are updated at different times. The layers we draw from OpenStreetMap are refreshed when we update the dashboard, which we aim to do quarterly. Other layers, such as demographic or street lighting data, depend on when their source data is released. Demographic data, for example, comes from the latest Census. If you need the update date for a specific layer, please contact the Safer Parks team. 
+Different layers come from different sources and are updated at different times. The layers we draw from OpenStreetMap are refreshed when we update the dashboard, which we aim to do quarterly. Other layers, such as demographic or street lighting data, depend on when their source data is released. Demographic data, for example, comes from the latest Census. If you need the update date for a specific layer, please check the [Data Layer Guidance table](guide.html#download-the-data-layer-guidance-document) or contact the Safer Parks team. 
 
 ## We have official data (for example, from our office or council) that we think could be useful. How can we share it? 
 
