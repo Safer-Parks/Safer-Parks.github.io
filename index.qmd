@@ -7,13 +7,16 @@ toc: false
 
 [Supporting safer, more inclusive parks for women and girls]{.emphasis}
 
+[A free mapping tool that brings together open data and spatial insights to help practitioners understand the factors that shape safety and inclusion in parks across England and Wales.]{.emphasis3}
+
 ::::{.grid}
 
 ::: {.g-col-12 .g-col-md-6 .align-items-center}
 
-<br>
 
 :::::{.larger-bullets}
+Use the dashboard to:
+
 - Visualise park safety factors
 - Explore spatial data layers
 - Make decisions with evidence
@@ -51,17 +54,10 @@ In order to access the dashboard, you must complete a brief registration form. T
 
 ::: -->
 
-<br>
-
-
 :::{.text-box2}
-The Safer Parks Dashboard helps local authorities, police forces, and community partners understand the environmental and social factors that shape how safe women and girls feel in parks.
+Grounded in the [*Safer Parks: Improving Access to Women and Girls* guidance](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf), , the dashboard helps practitioners explore visibility, lighting, access points, route popularity, vegetation, park facilities and surrounding communities across parks in England and Wales.
 
-It brings together open spatial data on the indicators that matter most, including lighting, visibility, entrances and escape routes, crime patterns, footfall, and park facilities.
-
-Aligned with the [*Safer Parks: Improving Access to Women and Girls* guidance](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf), the dashboard provides a clear evidence base to support better design, management, and prevention activity.
-
-Explore the data to see how this tool can support your work in creating parks that feel welcoming, inclusive, and safe for everyone.
+**[**Launch the dashboard**](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y_21PdTtSidAqW-TSzvWOgxUNzlNSDBOWFBSN1JQM0YzUEhYUDdTOE5TNC4u) to get started, or visit the [**About**](about.qmd) and [**How to Use**](guide.qmd) pages to learn more.**
 
 <details>
   <summary style="color: #572B6F !important;">Warranty and liability (click to expand)</summary>
