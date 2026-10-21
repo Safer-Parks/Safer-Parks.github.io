@@ -81,24 +81,27 @@ The work has been assisted by partners, funders, and supporters, who have provid
 
 <br>
 
-<hr>
-
 <br>
 
 ## Illustrations and brand identity
 
-![](assets/partners/Harper Perry Logo_RGB_Colour.png){fig-align="center" width="25%" alt="Harper Perry logo"}
-
 <br>
 
-<hr>
+::: {layout="[50, 50]" layout-valign="bottom" style="text-align: center;"}
+
+![[Harper Perry](https://www.harperperry.co.uk/)](assets/partners/Harper Perry Logo_RGB_Colour.png){fig-align="center" height="180px" alt="Harper Perry logo"}
+
+![[Josie Brookes Illustration](https://www.josiebrookes.com/)](assets/partners/Bike woman copy.png){fig-align="center" height="250px" alt="Illustration of a woman on a bike"}
+
+:::
+
+<br>
 
 <br>
 
 ## Supporters
 
-If you are taking part in the pilot study, and are happy for your logo to be shown here, please let us know!
-
+If you wish to show your support for the dashboard with your logo, please let us know!
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script src="slick/slick.min.js"></script>
