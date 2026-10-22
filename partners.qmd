@@ -102,6 +102,7 @@ If you wish to show your support for the dashboard with your logo, please let us
 
 <br>
 
+If you wish to show your support for the dashboard with your logo, please let us know!
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script src="slick/slick.min.js"></script>

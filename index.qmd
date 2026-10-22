@@ -46,7 +46,7 @@ Use the dashboard to:
 [Register to access the dashboard](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y_21PdTtSidAqW-TSzvWOgxUNzlNSDBOWFBSN1JQM0YzUEhYUDdTOE5TNC4u){.btn .btn-primary .btn-lg .rounded-pill}
 :::: -->
 
-<br>
+<!-- <br>
 
 :::{.text-box2}
 Grounded in the [*Safer Parks: Improving Access to Women and Girls* guidance](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf), , the dashboard helps practitioners explore visibility, lighting, access points, route popularity, vegetation, park facilities and surrounding communities across parks in England and Wales.
@@ -58,7 +58,7 @@ Grounded in the [*Safer Parks: Improving Access to Women and Girls* guidance](ht
   The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 </details>
 
-:::
+::: -->
 
 Hero section illustration credit: [Harper Perry](www.harperperry.co.uk).
 
