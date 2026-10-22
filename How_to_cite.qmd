@@ -1,0 +1,27 @@
+---
+title: How to cite the dashboard
+toc: False
+---
+
+If you use the Safer Parks Dashboard in your work, we ask that you please acknowledge and cite us.
+
+## Dashboard
+
+If you use insights, screenshots, text, or images from the dashboard in your work, please cite us as follows:
+
+Maeve Murphy Quinlan, Anna Barker, Melissa Barrientos, Victoria Houlden, Francesca Pontin (2026): The Safer Parks Dashboard. University of Leeds. https://doi.org/10.5518/1951. Accessed: <time id="cite-accessed-date"></time>
+
+<script>
+  (function () {
+    var now = new Date();
+    var el = document.getElementById('cite-accessed-date');
+    el.dateTime = now.toLocaleDateString('en-CA');
+    el.textContent = now.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+  })();
+</script>
+
+## Data
+
+If you download data from the dashboard following the "Download Data" link on the dashboard sidebar, the appropriate citation is provided alongside the relevant dataset.
+
+If you use data read directly from the dashboard, without downloading supplementary data files, please just use the dashboard citation provided above.

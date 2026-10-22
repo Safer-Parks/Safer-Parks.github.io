@@ -24,6 +24,8 @@ website:
       - text: FAQs
         href: faqs.qmd
       - partners.qmd
+      - text: Cite us
+        href: How_to_cite.qmd
       - text: Dashboard
         href: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y_21PdTtSidAqW-TSzvWOgxUNzlNSDBOWFBSN1JQM0YzUEhYUDdTOE5TNC4u
 
