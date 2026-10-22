@@ -2,8 +2,6 @@
 title: "How to use"
 ---
 
-[How to Use Data Layers]{.emphasis}
-
 This page explains what each data layer shows, where the data comes from, and how it can be used to support park safety, design and management decisions. A downloadable summary table is provided at the end of the page.
 
 :::{.text-box3}
@@ -18,19 +16,16 @@ The dashboard supports the [*Safer Parks: Improving Access to Women and Girls* g
 :::
 
 
-## How to use the dashboard
-
-### Using individual data layers
+## Using individual data layers
 
 Each layer represents a different aspect of park safety and inclusion. Used on its own, a layer highlights  a specific feature, such as where lighting is present or absent, the potential of routes (footpaths) being busy, or where visibility is low. Toggle on a single layer to explore parks in your area and potential issues or opportunities for improvement. 
 
-### Using combined data layers
+## Using combined data layers
 
-The dashboard is most effective when layers are used together. Park safety and inclusion is shaped by multiple factors, for example, a busy route might be poorly lit, or an access point might be obscured by dense vegetation. Combining layers helps build a clear, more complete understanding of where  spaces may feel or be less safe. Suggested layer combinations are provided in Section 4.
+The dashboard is most effective when layers are used together. Park safety and inclusion is shaped by multiple factors, for example, a busy route might be poorly lit, or an access point might be obscured by dense vegetation. Combining layers helps build a clear, more complete understanding of where  spaces may feel or be less safe. [Suggested layer combinations](#suggested-layer-combinations) are provided below.
 
 ![How might different groups use the dashboard to improve participation and safety for women and girls in parks?](assets/Partners_graphic-2.png){fig-align="center" width="90%" alt="Cartoon showing different use-cases, including local authorities, policing, community organisations, and designers and planners."}
 
-# Data layer guidance
 
 ## Park Structure 
 
