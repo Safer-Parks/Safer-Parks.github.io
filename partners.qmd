@@ -34,9 +34,7 @@ format:
 
 [Collaboration driving safer public spaces ]{.emphasis}
 
-In addition to the core research team, the Safer Parks Dashboard has been shaped through close collaboration with organisations committed to improving safety, access, and inclusion in parks. 
-
-The work has been assisted by partners, funders, and supporters, who have provided expertise, resources, and guidance throughout the project. Their contributions have been invaluable in ensuring that the dashboard reflects the needs and priorities of communities across West Yorkshire.
+The Safer Parks Dashboard has been developed through close collaboration with partners, funders and supporters committed to improving safety, access and inclusion in parks, who have contributed expertise, resources and guidance throughout the project.
 
 ## Partners and Funders
 
@@ -81,6 +79,11 @@ The work has been assisted by partners, funders, and supporters, who have provid
 
 <br>
 
+## Supporters
+
+If you wish to show your support for the dashboard with your logo, please let us know!
+
+
 <br>
 
 ## Illustrations and brand identity
@@ -98,8 +101,6 @@ The work has been assisted by partners, funders, and supporters, who have provid
 <br>
 
 <br>
-
-## Supporters
 
 If you wish to show your support for the dashboard with your logo, please let us know!
 

@@ -10,26 +10,22 @@ Attend one of our [*Meet the Developers* sessions](events.qmd) to find out more.
 
 For those completing the *'Safer Parks: Improving Access for Women and Girls – Training for Professionals’* online training please continue with the course and come back to checkout the dashboard from the **04/11/26**
 
-
-<!-- <details>
-  <summary style="color: #572B6F !important;">Warranty and liability (click to expand)</summary>
-  The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
-</details> -->
-
 :::
 
 # Welcome to the Safer Parks Dashboard!
 
-
 [Supporting safer, more inclusive parks for women and girls]{.emphasis}
+
+[A free mapping tool that brings together open data and spatial insights to help practitioners understand the factors that shape safety and inclusion in parks across England and Wales.]{.emphasis3}
 
 ::::{.grid}
 
 ::: {.g-col-12 .g-col-md-6 .align-items-center}
 
-<br>
 
 :::::{.larger-bullets}
+Use the dashboard to:
+
 - Visualise park safety factors
 - Explore spatial data layers
 - Make decisions with evidence
@@ -46,23 +42,16 @@ For those completing the *'Safer Parks: Improving Access for Women and Girls –
 
 ::::
 
-::::{.d-flex .justify-content-center}
-[Launch the dashboard](launch.qmd){.btn .btn-primary .btn-lg .rounded-pill}
-::::
+<!-- ::::{.d-flex .justify-content-center}
+[Register to access the dashboard](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y_21PdTtSidAqW-TSzvWOgxUNzlNSDBOWFBSN1JQM0YzUEhYUDdTOE5TNC4u){.btn .btn-primary .btn-lg .rounded-pill}
+:::: -->
 
 <!-- <br>
 
-::: {.text-box}
+:::{.text-box2}
+Grounded in the [*Safer Parks: Improving Access to Women and Girls* guidance](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf), , the dashboard helps practitioners explore visibility, lighting, access points, route popularity, vegetation, park facilities and surrounding communities across parks in England and Wales.
 
-[User testing complete]{.emphasis}
-
-Thank you for taking part in the pilot session; we will be updating the dashboard based on your feedback. The dashboard will be offline as we incorporate these changes and prepare for the launch. If you haven't yet, please leave your feedback below in our user survey!
-
-
-::::{.d-flex .justify-content-center}
-[Report something broken](https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y7F71Nw9669Pjl45v2S4qgtURTNCQzlWR01UQzNFV0pEVTM2OFlON0RHTS4u){.btn .btn-primary .btn-lg .rounded-pill} [Complete pilot user survey](https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y3CZNq81K0JPjDKGeEpvxNlUMlY4NlI1OTBLVUtHVFFONkpWRUYxOEVYNi4u){.btn .btn-primary .btn-lg .rounded-pill} 
-::::
-
+<!-- **[**Launch the dashboard**](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y_21PdTtSidAqW-TSzvWOgxUNzlNSDBOWFBSN1JQM0YzUEhYUDdTOE5TNC4u) to get started, or visit the [**About**](about.qmd) and [**How to Use**](guide.qmd) pages to learn more.** -->
 
 <details>
   <summary style="color: #572B6F !important;">Warranty and liability (click to expand)</summary>
@@ -70,20 +59,6 @@ Thank you for taking part in the pilot session; we will be updating the dashboar
 </details>
 
 ::: -->
-
-<br>
-
-
-:::{.text-box2}
-The Safer Parks Dashboard helps local authorities, police forces, and community partners understand the environmental and social factors that shape how safe women and girls feel in parks.
-
-It brings together open spatial data on the indicators that matter most, including lighting, visibility, entrances and escape routes, crime patterns, footfall, and park facilities.
-
-Aligned with the [*Safer Parks: Improving Access to Women and Girls* guidance](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf), the dashboard provides a clear evidence base to support better design, management, and prevention activity.
-
-Explore the data to see how this tool can support your work in creating parks that feel welcoming, inclusive, and safe for everyone.
-
-:::
 
 Hero section illustration credit: [Harper Perry](www.harperperry.co.uk).
 

@@ -1,47 +1,52 @@
 ---
-title: "About"
+title: "About the Safer Parks dashboard"
 ---
 
-## A practical tool to strengthen park safety, design, and decision‑making
+## Evidence-informed insights for safer and more inclusive parks
 
 :::{.text-box3}
+A free mapping tool that helps practitioners understand the environmental and social factors that influence how safe women and girls feel in parks and green spaces.
+Developed by an interdisciplinary research team at the University of Leeds, the dashboard combines open spatial data, advanced geospatial analysis and the principles set out in [*Safer Parks: Improving Access for Women and Girls*](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf) to support evidence-informed decision-making.
 
-The Safer Parks Dashboard has been developed to support professionals working across crime prevention, parks management, and place‑shaping. It brings together [open spatial data](data.qmd) and the [principles of safer park design](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf) to provide clear, actionable insight into improving feelings of safety for women and girls.
+The dashboard has been designed for local authorities, park managers, planners, police forces, community safety partnerships, landscape professionals and community organisations seeking to improve safety, accessibility and inclusion in parks across England and Wales.
+
+:::{style="text-align:center"}
 
 ![[The Safer Parks guidance](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf)](assets/guidance.png){width="40%" fig-align="center" alt="Cover of the Safer Parks guidance document, showing a sketch of a park with trees, paths, and benches."}
+:::
 
 Using the dashboard, partners can: 
 
 ::::{.column-page-inset-right}
 
-- identify where lighting, visibility, or access improvements may be needed 
-- understand movement patterns and likely footfall using network analysis (in development)
-- assess park entrances, unofficial access points, and escape routes 
-- review amenities such as benches, toilets, and play areas at both site and regional level 
+- Identify areas where improvements to lighting, visibility or access may be beneficial
+- Explore park entrances, access points and potential escape routes
+- Understand likely movement patterns through parks
+- Review park facilities and amenities
+- Support Environmental Visual Audits, park management plans and investment decisions
+- Inform local approaches to preventing violence against women and girls (VAWG)
 ::::
 
+The dashboard is intended to complement local knowledge, site visits, community engagement and other sources of evidence, rather than replace them.
+
+
+![Overview of a park highlighting the key principles of safer park design, from the [*Safer Parks: Improving Access for Women and Girls* guidance](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance); illustration credit: [Harper Perry](www.harperperry.co.uk).](assets/Safer-Parks-Strategy-Harper-Perry-05.jpg){fig-align="center" width="90%" fig-alt="Overview sketch of a park with trees, paths, benches, and a playground. The sketch is annotated with arrows and text highlighting entrances, escape routes, and areas of visibility."}
+
+
+
+## The Evidence Base
+
+:::{.text-box3}
+
+The dashboard is grounded in *Safer Parks: Improving Access for Women and Girls*, national guidance developed through extensive research and engagement with women and girls, parks professionals, police forces, urban designers and other stakeholders.
+
+The guidance identifies ten principles that contribute to safer and more inclusive parks, organised around three interconnected themes.
+
 :::
 
-::: {.column-screen}
-![Overview of a park highlighting the key principles of safer park design, from the [*Safer Parks: Improving Access for Women and Girls* guidance](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance); illustration credit: [Harper Perry](www.harperperry.co.uk).](assets/Safer-Parks-Strategy-Harper-Perry-05.jpg){fig-align="center" width="100%" fig-alt="Overview sketch of a park with trees, paths, benches, and a playground. The sketch is annotated with arrows and text highlighting entrances, escape routes, and areas of visibility."}
-:::
+<br>
+
 :::: {.column-page-inset}
-:::{.text-box3}
-
-By combining data layers, police and councils can target resources more effectively, aid scanning and analysis stages of SARA model problem-solving, inform Environmental Visual Audits, enhance patrol planning, undertake accessibility audits and strengthen park management plans. Friends of Parks groups and community organisations can also use the tool to inform local projects, identify opportunities, and collaborate with authorities. 
-:::
-
-[Our aim is simple: to make parks feel safer and more welcoming for women and girls, and to support the prevention of violence against women and girls (VAWG) in public spaces.]{.emphasis}
-
-
-## The evidence base behind the dashboard 
-
-:::{.text-box3}
-
-The dashboard is grounded in *Safer Parks: Improving Access for Women and Girls*, guidance developed through extensive research and engagement with women and teenage girls, parks managers, urban designers, police, and others. This research identified the environmental and social factors that most influence feelings of safety and the guidance sets out ten guiding principles for safer park design and management, organised across three themes: 
-:::
-
-
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
@@ -49,7 +54,7 @@ The dashboard is grounded in *Safer Parks: Improving Access for Women and Girls*
 ::: {.text-box-eyes}
 ### Eyes on the Park 
 
-Safety increases when parks feel welcoming, and well‑used. Everyday activity, programmed events, and routine footfall create natural surveillance. Visible, skilled staff and volunteers signal that the space is cared for and monitored. 
+Parks often feel safer when they are active, welcoming and well used. Regular activity creates opportunities for natural surveillance while visible staff, volunteers and other legitimate users can provide reassurance and support.
 
 ::: {.larger-bullets2}
 
@@ -67,8 +72,7 @@ Safety increases when parks feel welcoming, and well‑used. Everyday activity, 
 ::: {.text-box-aware}
 ### Awareness 
 
-Design features that support awareness such as good visibility, suitable lighting, open sightlines and layouts that are easy to navigate help users feel secure. These elements reduce uncertainty, make escape routes clear, and help people intuitively understand the space around them. 
-
+People are more likely to feel safe when they can easily understand their surroundings. Visibility, lighting, clear routes and good park layouts help reduce uncertainty and increase confidence in using the space.
 
 ::: {.larger-bullets2}
 
@@ -88,7 +92,7 @@ Design features that support awareness such as good visibility, suitable lightin
 :::{.text-box-incl}
 ### Inclusion 
 
-A sense of belonging plays a vital role in safety. Inclusion means co‑producing parks with communities from early design through long‑term management, and creating environments that feel welcoming, familiar, and reflective of diverse needs and identities. 
+Safety is closely linked to belonging. Parks should feel welcoming to diverse users and be shaped through ongoing engagement with the communities they serve.
 
 ::: {.larger-bullets2}
 
@@ -105,7 +109,7 @@ A sense of belonging plays a vital role in safety. Inclusion means co‑producin
   
 :::
 
-::: {.grid}
+<!-- ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4 .img-box}
 
@@ -157,25 +161,42 @@ A sense of belonging plays a vital role in safety. Inclusion means co‑producin
 
 :::
 
-:::
+::: -->
+
+::::
 
 <br>
 
-Three themes/ten guiding principles text and images from the [*Safer Parks: Improving Access for Women and Girls* guidance](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance); illustrations by [Harper Perry](www.harperperry.co.uk).
+Three themes/ten guiding principles from the [*Safer Parks: Improving Access for Women and Girls* guidance](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance); illustrations by [Harper Perry](www.harperperry.co.uk).
 
 
 
 
-## How this evidence is translated into practice
+
 
 :::{.text-box3}
 
-The Safer Parks Dashboard puts this guidance into action by mapping open spatial data—including calculated entrances, visibility modelling, predicted footfall, lighting density, crime patterns, and facilities. Developed through ongoing co‑design with [partners](partners.qmd), including local authorities, police, and community groups, the dashboard reflects real operational needs and challenges.  
+## From Guidance to Action
 
-A data‑driven approach can strengthen decision‑making, support VAWG prevention, and enable targeted improvements that increase women’s and girls’ confidence, access, and use of parks. 
+The dashboard translates these principles into a series of spatial indicators and interactive data layers that can be explored at national, regional and site level.
 
-Together, the guidance and the dashboard offer a practical approach to designing and managing safer, more inclusive parks. 
+These include:
+
+- Visibility modelling
+- Lighting provision
+- Park entrances and access points
+- Predicted route popularity
+- Tree and vegetation cover
+- Park facilities and amenities
+- Active travel connections
+- Population and neighbourhood characteristics
+
+By combining multiple datasets, users can develop a more comprehensive understanding of how different factors interact to influence people's experiences of parks.
+
+For example, a well-used route may suffer from poor visibility, while an entrance with high levels of use may lack adequate lighting or natural surveillance. Bringing these layers together helps identify priorities for intervention and support more informed decision-making.
+
+The dashboard has been developed through ongoing collaboration with local authorities, police forces, parks professionals and community partners to ensure it addresses real-world operational challenges.
+Together, the Safer Parks guidance and the dashboard provide a practical framework for creating parks that feel safer, more welcoming and more inclusive for women and girls.
 
 :::
 
-::::
