@@ -1,0 +1,12 @@
+---
+title: Upcoming Events
+toc: False
+---
+
+## Q&A with Meet the Developers
+
+The team is running online sessions where you can see the dashboard in action and ask the people who built it questions. Please use the links below for more information:
+
+- [Safer Parks Dashboard - Demo & Q&A (Wednesday, November 11, 12:00 PM - 12:30 PM)](https://events.teams.microsoft.com/event/b7d7a337-7042-4fdb-9cdd-00953790558b@bdeaeda8-c81d-45ce-863e-5232a535b7cb?source=copyLinkLegacyShareEventDialog)
+- [Safer Parks Dashboard - Demo & Q&A (Wednesday, November 18, 12:00 PM - 12:30 PM)](https://events.teams.microsoft.com/event/069f9c42-026f-4cb4-a6e4-322fdd103d64@bdeaeda8-c81d-45ce-863e-5232a535b7cb?source=copyLinkLegacyShareLinkDialog)
+- [Safer Parks Dashboard - Demo & Q&A (Wednesday, November 25, 12:00 PM - 12:30 PM)](https://events.teams.microsoft.com/event/a29285af-4917-457e-8325-59fd1766b214@bdeaeda8-c81d-45ce-863e-5232a535b7cb?source=copyLinkLegacyShareLinkDialog)
