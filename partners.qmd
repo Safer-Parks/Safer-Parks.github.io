@@ -88,20 +88,9 @@ The Safer Parks Dashboard has been developed through close collaboration with pa
 
 ## Supporters
 
-
-(this list will be removed, just wanted to make it easier to check) 
-
-- GDM
-- Gwent Police
-- IHP
-- Light Follows Behaviour
-- MSFG
-- PFL
-- Planit
-- Ryder
-- Urban Design Group
-
 ::: {.carousel}
+
+![](assets/partners/supporters/ate-blackwithgreenstripe-whitebg-large.jpg){fig-align="center" width="100%" alt="Active Travel England logo"}
 
 ![](assets/partners/supporters/GDM LOGO.png){fig-align="center" width="100%" alt="Get Doncaster Moving logo"}
 
@@ -118,6 +107,8 @@ The Safer Parks Dashboard has been developed through close collaboration with pa
 ![](assets/partners/supporters/Planit_Logotype_RGB_Moss.png){fig-align="center" width="100%" alt="Planit logo"}
 
 ![](assets/partners/supporters/Ryder_Grey.png){fig-align="center" width="100%" alt="Ryder logo"}
+
+![](assets/partners/supporters/science_police.png){fig-align="center" width="100%" alt="Science and technology in policing logo"}
 
 ![](assets/partners/supporters/UDG-2011_Logo-Ultra-High-Res-Master.jpg){fig-align="center" width="100%" alt="Urban Design Group logo"}
 
