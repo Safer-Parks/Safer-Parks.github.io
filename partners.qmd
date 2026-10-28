@@ -108,7 +108,7 @@ The Safer Parks Dashboard has been developed through close collaboration with pa
 
 ![](assets/partners/supporters/Ryder_Grey.png){fig-align="center" width="100%" alt="Ryder logo"}
 
-![](assets/partners/supporters/science_police.png){fig-align="center" width="100%" alt="Science and technology in policing logo"}
+![](assets/partners/supporters/01_STP%20Logo%20Primary%20CMYK_satp_primary_Full%20colour%20version%20(blue-yellow%20device%20and%20black%20type).svg){fig-align="center" width="100%" alt="Science and technology in policing logo"}
 
 ![](assets/partners/supporters/UDG-2011_Logo-Ultra-High-Res-Master.jpg){fig-align="center" width="100%" alt="Urban Design Group logo"}
 
