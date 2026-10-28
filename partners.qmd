@@ -6,6 +6,14 @@ format:
       - text: |
           <link rel="stylesheet" type="text/css" href="slick/slick.min.css"/>
           <link rel="stylesheet" type="text/css" href="slick/accessible-slick-theme.min.css"/>
+          <style>
+            .carousel .slick-track { display: flex; align-items: center; }
+            .carousel .slick-slide { height: auto; display: flex; justify-content: center; align-items: center; }
+            .carousel .slick-slide > div { width: 100%; padding: 0 20px; box-sizing: border-box; }
+            .carousel .slick-slide figure,
+            .carousel .slick-slide p { margin: 0; text-align: center; }
+            .carousel .slick-slide img { display: block; margin: 0 auto; max-width: 100%; height: auto; }
+          </style>
 ---
 
 ## Research Team
@@ -74,12 +82,37 @@ The Safer Parks Dashboard has been developed through close collaboration with pa
 
 ![](assets/partners/leeds_uni.png){fig-align="center" width="100%" alt="University of Leeds logo"}
 
-
 :::
 
 <br>
 
 ## Supporters
+
+::: {.carousel}
+
+![](assets/partners/supporters/ate-blackwithgreenstripe-whitebg-large.jpg){fig-align="center" width="100%" alt="Active Travel England logo"}
+
+![](assets/partners/supporters/GDM LOGO.png){fig-align="center" width="100%" alt="Get Doncaster Moving logo"}
+
+![](assets/partners/supporters/GWENT%20POLICE%20FULL.png){fig-align="center" width="100%" alt="Gwent Police logo"}
+
+![](assets/partners/supporters/IHP%20Logo%20300%20x%20300.jpeg){fig-align="center" width="100%" alt="In her place logo"}
+
+![](assets/partners/supporters/Light%20Follows%20Behaviour.png){fig-align="center" width="100%" alt="Light Follows Behaviour logo"}
+
+![](assets/partners/supporters/MSFG%20Logo%20Black%202500x3500%20(1).png){fig-align="center" width="100%" alt="Make Space for Girls logo"}
+
+![](assets/partners/supporters/pfl-logo-main.svg){fig-align="center" width="100%" alt="Parks for London logo"}
+
+![](assets/partners/supporters/Planit_Logotype_RGB_Moss.png){fig-align="center" width="100%" alt="Planit logo"}
+
+![](assets/partners/supporters/Ryder_Grey.png){fig-align="center" width="100%" alt="Ryder logo"}
+
+![](assets/partners/supporters/01_STP%20Logo%20Primary%20CMYK_satp_primary_Full%20colour%20version%20(blue-yellow%20device%20and%20black%20type).svg){fig-align="center" width="100%" alt="Science and technology in policing logo"}
+
+![](assets/partners/supporters/UDG-2011_Logo-Ultra-High-Res-Master.jpg){fig-align="center" width="100%" alt="Urban Design Group logo"}
+
+:::
 
 If you wish to show your support for the dashboard with your logo, please let us know!
 

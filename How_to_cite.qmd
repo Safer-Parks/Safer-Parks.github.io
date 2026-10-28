@@ -28,6 +28,10 @@ In addition to citing us in the text of your work, please include a caption cont
 
 Please update the timestamp to match the date the image was captured or downloaded. Where multiple screenshots or images are included in a document, this can be included once as opposed to duplicated for each.
 
+## Illustrations 
+
+Illustrations are by [Harper Perry](https://www.harperperry.co.uk/) and [Josie Brookes Illustration](https://www.josiebrookes.com/), all rights reserved.
+
 ## Data
 
 If you download data from the dashboard following the "Download Data" link on the dashboard sidebar, the appropriate citation is provided alongside the relevant dataset.
