@@ -430,6 +430,75 @@ This data comes from combined Ordnance Survey and OpenStreetMap data.
 :::
 
 ::: {.callout-note appearance="simple" collapse="true"}
+## Toilets
+
+### What is this layer?
+
+The location of toilets within or nearby parks. The layer is displayed
+as points.
+
+### How to use this information
+
+Good quality public toilets are important. They not only help women and
+girls remain in the space for longer but also act as a signal that they
+are welcome in the park. Well-used seating areas can also provide
+greater 'eyes on the park', helping spaces feel safer.\
+Use this layer to understand where toilets are---and are not---located
+within your chosen park. Consider:
+
+- **Availability of toilets:** Are there toilets available in or near
+  the park? Lack of toilets may discourage use, particularly by women,
+  older people, parents, and disabled users (See [[Belonging and
+  Familiarity: The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=44)]{.underline}).
+
+- **Signposting toilets:** If there aren't toilets available in the park
+  can the nearest public toilets be signposted [(See Access and
+  Location](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=52)[[:
+  The Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=52)]{.underline}[).](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=52)
+
+- **Location and entrances:** Are toilets located in visible, well-lit
+  areas? Toilet entrances in concealed or isolated spots may feel unsafe
+  or attract unwanted behaviour (See [[Visibility and Openness: The
+  Safer Parks
+  guidance](https://www.greenflagaward.org/media/j0mbuudi/250908_safer-parks_pcpi_single.pdf#page=24)]{.underline})
+
+### What layers could be combined?
+
+For deeper insight, use alongside the *Predicted Route Popularity and*
+*Visibility Analysis* layers.
+
+### Where is the data from?
+
+This layer uses data from [The Toilet
+Map](https://www.toiletmap.org.uk/dataset), the UK's
+largest database of publicly accessible toilets, with over 14,000
+facilities. The Toilet Map is run by Public Convenience, a joint venture
+between researchers Dr Jo-Anne Bichard and Gail Ramster, who created the
+map at the RCA Helen Hamlyn Centre for Design, and the software company
+Neontribe, who designed and built it.\
+Most of the information is crowdsourced. Anyone can add, edit or remove
+toilets on the website. It is supplemented with open data and with
+information requested from councils, OpenStreetMap, private companies
+and other organisations. Because of this, coverage and accuracy vary
+between areas. Some toilets may be missing, out of date, closed, or open
+only at certain times. Check details such as opening hours,
+accessibility and baby-changing provision against local authority
+records and local knowledge.\
+The data was downloaded on 10/06/2026. For this dashboard it has been
+filtered to show toilets within or near (within 800m of) park
+boundaries.
+
+Licence: The Toilet Map dataset is open data released under the
+[Creative Commons Attribution 4.0 International (CC BY
+4.0)](https://creativecommons.org/licenses/by/4.0/)
+licence. Contains data from the Toilet Map © 2026, CC BY 4.0. The data
+has been modified (filtered by location) for use in this dashboard.
+
+:::
+
+::: {.callout-note appearance="simple" collapse="true"}
 ## Foliage 
 
 ### What is this layer?  
