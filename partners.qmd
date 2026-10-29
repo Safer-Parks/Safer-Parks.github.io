@@ -98,6 +98,8 @@ The Safer Parks Dashboard has been developed through close collaboration with pa
 
 ![](assets/partners/supporters/IHP%20Logo%20300%20x%20300.jpeg){fig-align="center" width="100%" alt="In her place logo"}
 
+![](assets/partners/supporters/LBU-logo-core%20purple%20RGB.png){fig-align="center" width="100%" alt="Leeds Beckett University logo"}
+
 ![](assets/partners/supporters/Light%20Follows%20Behaviour.png){fig-align="center" width="100%" alt="Light Follows Behaviour logo"}
 
 ![](assets/partners/supporters/MSFG%20Logo%20Black%202500x3500%20(1).png){fig-align="center" width="100%" alt="Make Space for Girls logo"}
@@ -109,6 +111,8 @@ The Safer Parks Dashboard has been developed through close collaboration with pa
 ![](assets/partners/supporters/Ryder_Grey.png){fig-align="center" width="100%" alt="Ryder logo"}
 
 ![](assets/partners/supporters/01_STP%20Logo%20Primary%20CMYK_satp_primary_Full%20colour%20version%20(blue-yellow%20device%20and%20black%20type).svg){fig-align="center" width="100%" alt="Science and technology in policing logo"}
+
+![](assets/partners/supporters/Southwark_Council_2023_blk%20(1).jpg){fig-align="center" width="100%" alt="Southwark Council logo"}
 
 ![](assets/partners/supporters/UDG-2011_Logo-Ultra-High-Res-Master.jpg){fig-align="center" width="100%" alt="Urban Design Group logo"}
 
