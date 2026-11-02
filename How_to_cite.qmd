@@ -9,7 +9,7 @@ If you use the Safer Parks Dashboard in your work, we ask that you please acknow
 
 If you use insights, screenshots, text, or images from the dashboard in your work, please cite us in your work as follows:
 
-> Maeve Murphy Quinlan, Anna Barker, Melissa Barrientos, Victoria Houlden, Francesca Pontin (2026): The Safer Parks Dashboard. University of Leeds. https://doi.org/10.5518/1951. Accessed: <time id="cite-accessed-date"></time>
+> Maeve Murphy Quinlan, Anna Barker, Melissa Barrientos-Trinanes, Victoria Houlden, Francesca Pontin (2026): The Safer Parks Dashboard. University of Leeds. https://doi.org/10.5518/1951. Accessed: <time id="cite-accessed-date"></time>
 
 <script>
   (function () {
