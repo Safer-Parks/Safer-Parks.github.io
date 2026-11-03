@@ -196,6 +196,9 @@ This layer uses OpenStreetMap data, styled by Carto.
 
 ## Predicted Route Popularity 
 
+**Warning:**
+Please note that this layer is in active development, and the data shown is an initial preview. The data is cut to a 800m buffer around the park. This dataset uses an 800m radius for analysis, equivalent to an approximately 10 minute walk. This will be updated by December 2026 to instead use 1000m/15 minutes to better align with other analyses.
+
 ### What is this layer?  
 
 Illustrates how people are likely to move through streets and paths, showing movement patterns at a neighbourhood scale, around a 10-minute walk. Higher values indicate greater potential for pedestrian movement, footfall, and co-presence. It is displayed as a line network.  
