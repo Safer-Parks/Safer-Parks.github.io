@@ -196,6 +196,9 @@ This layer uses OpenStreetMap data, styled by Carto.
 
 ## Predicted Route Popularity 
 
+**Warning:**
+Please note that this layer is in active development, and the data shown is an initial preview. The data is cut to a 800m buffer around the park. This dataset uses an 800m radius for analysis, equivalent to an approximately 10 minute walk. This will be updated by December 2026 to instead use 1000m/15 minutes to better align with other analyses.
+
 ### What is this layer?  
 
 Illustrates how people are likely to move through streets and paths, showing movement patterns at a neighbourhood scale, around a 10-minute walk. Higher values indicate greater potential for pedestrian movement, footfall, and co-presence. It is displayed as a line network.  
@@ -894,13 +897,13 @@ OpenStreetMap contributors. (2024). OpenStreetMap data via Geofabrik.
 
 Preview our Data Layer Guidance table below, which provides an overview of the data layers used in the Safer Parks Dashboard, including their source, description, and how they can be used to inform park safety and design decisions.
 
-You can also view [the data table in full-screen pdf format](assets/The%20Safer%20Parks_Data%20Layer%20Guidance_Table_v1.pdf) (and download/print), or download the [Microsoft Word document](assets/The%20Safer%20Parks_Data%20Layer%20Guidance_Table_v1.docx).
+You can also view [the data table in full-screen pdf format](assets/The%20Safer%20Parks_Data%20Layer%20Guidance_Table_v2.pdf) (and download/print), or download the [Microsoft Word document](assets/The%20Safer%20Parks_Data%20Layer%20Guidance_Table_v2.docx).
 
 ::::{.column-page}
 
 ::: {.pdf-preview}
 
-<iframe src="assets/The%20Safer%20Parks_Data%20Layer%20Guidance_Table_v1.pdf" width="100%" height="600px"></iframe>
+<iframe src="assets/The%20Safer%20Parks_Data%20Layer%20Guidance_Table_v2.pdf" width="100%" height="600px"></iframe>
 
 :::
 
