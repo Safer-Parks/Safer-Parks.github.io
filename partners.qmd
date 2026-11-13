@@ -58,8 +58,7 @@ The Safer Parks Dashboard has been developed through close collaboration with pa
 
 ![](assets/partners/sbd-logos.png){fig-align="center" width="60%" alt="Secured by Design logo"}
 
-![](assets/partners/CircleLogoFULL%20copy%201.png.png){fig-align="center" width="60%" alt="Green Aware logo"}
-
+![](assets/partners/CircleLogoFULL%20copy%201.png){fig-align="center" width="60%" alt="Green Aware logo"}
 
 ![](assets/partners/keep_britain_tidy.png){fig-align="center" width="100%" alt="Keep Britain Tidy logo"}
 
