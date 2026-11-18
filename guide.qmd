@@ -312,7 +312,7 @@ This layer uses DEFRA LIDAR data and author-generated analysis. For England, it 
 
 DEFRA LIDAR data records only the top surface of the park, like a sheet draped over the trees and the ground, so the layer cannot see under the tree canopy. A tree with a lifted canopy and bare trunk is treated the same as a tree with dense undergrowth. This means areas under or behind trees will often show low visibility, even where the view at eye level is clear. The layer can look lower than what you see on site, so read it as a worst case, with no maintenance of lower branches or undergrowth, and check it against what you see on site. 
 
-![Why the visibility layer can look lower than what you see on site.](Safer-Parks.github.io/assets/Visibility.png)
+![Why the visibility layer can look lower than what you see on site.](assets/Visibility.png)
 
 :::
 
