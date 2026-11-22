@@ -878,6 +878,11 @@ the likelihood that offenders will be seen and identified.</td>
 <td>Seating encourages people to spend time in parks, increasing natural
 surveillance and a sense of community ownership of space.</td>
 </tr>
+<tr>
+<td>Toilets</td>
+<td>Principle 7: Environmental Change</td>
+<td>Good quality facilities encourage people to stay longer in parks, increasing activity and natural surveillance and signalling that the space is cared for.</td>
+</tr>
 </tbody>
 </table>
 
