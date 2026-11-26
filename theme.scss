@@ -565,3 +565,139 @@ table th {
 .table-style {
   font-size: 0.8rem;
 }
+
+// Clickable cards
+
+/* URL Card Component - Safer-Parks Theme */
+.url-card {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  border: 2px solid #C7DAB9;
+  border-radius: 12px;
+  background: #ffffff;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  color: inherit;
+  align-items: flex-start;
+  box-shadow: 0 2px 8px rgba(87, 43, 111, 0.08);
+  margin-bottom: 10px;
+}
+
+/* Hover and focus states */
+.url-card:hover {
+  border-color: #4F6C37;
+  box-shadow: 0 4px 16px rgba(79, 108, 55, 0.15);
+  transform: translateY(-2px);
+  background: #fafbf9;
+}
+
+.url-card:focus {
+  outline: 2px solid #572B6F;
+  outline-offset: 2px;
+}
+
+/* Image wrapper */
+.url-card__image-wrapper {
+  flex-shrink: 0;
+  width: 140px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 8px;
+  background: #f0f3ec;
+  border: 1px solid #C7DAB9;
+}
+
+.url-card__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Content area */
+.url-card__content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  flex: 1;
+  min-width: 0;
+}
+
+/* Source/domain */
+.url-card__source {
+  margin: 0;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #4F6C37;
+  letter-spacing: 0.5px;
+  font-family: "MrDodo Regular", serif;
+}
+
+/* Title */
+.url-card__title {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: #572B6F;
+  font-family: "MrDodo Regular", serif;
+}
+
+.url-card:hover .url-card__title {
+  color: #4F6C37;
+}
+
+/* Snippet/description */
+.url-card__snippet {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #202b17;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Link indicator */
+.url-card__link-indicator {
+  margin-top: auto;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #4F6C37;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-family: "MrDodo Regular", serif;
+}
+
+.url-card:hover .url-card__link-indicator {
+  color: #3d5229;
+}
+
+/* Responsive design */
+@media (max-width: 640px) {
+  .url-card {
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .url-card__image-wrapper {
+    width: 100%;
+    height: 180px;
+  }
+
+  .url-card__title {
+    font-size: 1.05rem;
+  }
+
+  .url-card__snippet {
+    -webkit-line-clamp: 3;
+    line-clamp:3;
+  }
+}

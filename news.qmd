@@ -1,0 +1,63 @@
+---
+title: "In the news"
+toc: false
+---
+
+Read more about the project through recent press coverage.
+
+<article class="url-card" role="link" tabindex="0" 
+onclick="window.open('https://www.westyorks-ca.gov.uk/resources/safer-parks-research-and-guidance/', '_blank')" 
+onkeypress="if(event.key==='Enter' || event.key===' ') window.open('https://www.westyorks-ca.gov.uk/resources/safer-parks-research-and-guidance/', '_blank')">
+<div class="url-card__content">
+<p class="url-card__source">West Yorkshire Combined Authority</p>
+<h3 class="url-card__title">Safer Parks – guidance and tools</h3>
+<p class="url-card__snippet">Women and girls often do not feel safe in parks and so use them less. This is unfair and unequal – and we are determined to change it...</p>
+<span class="url-card__link-indicator" aria-hidden="true">Read more →</span>
+</div>
+</article>
+
+
+<article class="url-card" role="link" tabindex="0" 
+onclick="window.open('https://www.greenflagaward.org/resources/video/safer-parks-introducing-new-online-training-and-open-data-dashboard/', '_blank')" 
+onkeypress="if(event.key==='Enter' || event.key===' ') window.open('https://www.greenflagaward.org/resources/video/safer-parks-introducing-new-online-training-and-open-data-dashboard/', '_blank')">
+<div class="url-card__content">
+<p class="url-card__source">Green Flag Award</p>
+<h3 class="url-card__title">Safer Parks: Introducing New Online Training and Open Data Dashboard (recorded webinar)</h3>
+<p class="url-card__snippet">In this webinar, Dr Anna Barker and Dr Fran Pontin from the University of Leeds introduce two new resources designed to support safer, more inclusive parks and green spaces...</p>
+<span class="url-card__link-indicator" aria-hidden="true">Read more →</span>
+</div>
+</article>
+
+
+<article class="url-card" role="link" tabindex="0" 
+onclick="window.open('https://science.police.uk/news-and-events/news/new-safer-parks-dashboard-launched-to-support-evidence-based-decision-making/', '_blank')" 
+onkeypress="if(event.key==='Enter' || event.key===' ') window.open('https://science.police.uk/news-and-events/news/new-safer-parks-dashboard-launched-to-support-evidence-based-decision-making/', '_blank')">
+<div class="url-card__content">
+<p class="url-card__source">Science and Technology in Policing</p>
+<h3 class="url-card__title">New Safer Parks Dashboard launched to support evidence-based decision making</h3>
+<p class="url-card__snippet">A new digital tool designed to help practitioners better understand the factors that influence safety and inclusion in parks and green spaces has launched across England and Wales...</p>
+<span class="url-card__link-indicator" aria-hidden="true">Read more →</span>
+</div>
+</article>
+
+<article class="url-card" role="link" tabindex="0" 
+onclick="window.open('https://www.ukri.org/what-we-do/research-and-development-missions-accelerator-programme/safer-streets-mission/', '_blank')" 
+onkeypress="if(event.key==='Enter' || event.key===' ') window.open('https://www.ukri.org/what-we-do/research-and-development-missions-accelerator-programme/safer-streets-mission/', '_blank')">
+<div class="url-card__content">
+<p class="url-card__source">UK Research and Innovation (UKRI)</p>
+<h3 class="url-card__title">Safer Streets mission</h3>
+<p class="url-card__snippet">These challenges form part of the government’s Safer Streets mission, which aims to halve knife crime and violence against women and girls (VAWG) within a decade...</p>
+<span class="url-card__link-indicator" aria-hidden="true">Read more →</span>
+</div>
+</article>
+
+<article class="url-card" role="link" tabindex="0" 
+onclick="window.open('https://worldurbanparks.org/mapping-safer-parks-improving-safety-and-inclusion-for-women-and-girls/', '_blank')" 
+onkeypress="if(event.key==='Enter' || event.key===' ') window.open('https://worldurbanparks.org/mapping-safer-parks-improving-safety-and-inclusion-for-women-and-girls/', '_blank')">
+<div class="url-card__content">
+<p class="url-card__source">World Urban Parks</p>
+<h3 class="url-card__title">Mapping Safer Parks: Improving Safety and Inclusion for Women and Girls</h3>
+<p class="url-card__snippet">As part of the World Urban Parks Symposium 2026, we’re sharing this presentation by Dr Anna Barker of the University of Leeds and Carl McClean of Green Flag Award...</p>
+<span class="url-card__link-indicator" aria-hidden="true">Read more →</span>
+</div>
+</article>

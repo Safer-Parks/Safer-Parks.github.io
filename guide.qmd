@@ -122,11 +122,11 @@ with a Park Boundary).
  
 ::: {.callout-note appearance="simple" collapse="true"}
 
-## Active Travel Route
+## Active Travel Routes: Walking and Cycling
 
 ### What is this layer? 
 
-Cycling routes within and around parks. The network is displayed as lines. Routes are based on OpenStreetMap and do not confirm a legal right to cycle. Please check local signs. 
+Walking and cycling routes within and around parks. The network is displayed as lines. Routes are based on OpenStreetMap and do not confirm a legal right to access or to cycle. Please check local signs. 
 
 ### How to use this information 
 
@@ -159,9 +159,11 @@ For deeper insight, use alongside the Predicted Route Popularity, Street Lightin
 
 ### Where is the data from? 
 
-This layer uses OpenStreetMap data downloaded via Geofabrik and filtered to extract active travel infrastructure across England and Wales. The data is split into two layers: cycling (cycleways, cycle lanes, shared paths, bridleways, and tracks) and walking (footways, pedestrian areas, shared paths, bridleways, and tracks). Shared paths, bridleways, and tracks appear in both layers as they serve both cyclists and pedestrians. 
+This layer uses OpenStreetMap data downloaded via Geofabrik and filtered to extract active travel infrastructure across England and Wales. The data is split into two layers: cycling and walking. Shared paths, bridleways, and tracks appear in both layers as they serve both cyclists and pedestrians. 
 
 The Cycling Routes layer (updated November 2026) is meant to show cycling infrastructure: routes built or signed for cycling. It shows seven types of route: dedicated cycleways, cycle lanes on streets, shared paths, bridleways, tracks, traffic-free roads (roads closed to cars but open to bikes, such as many park drives) and signed cycle routes (roads that are part of a national, regional or local cycle route). Ordinary streets without a cycle lane or signed route are not shown, although cycling on them is usually legal. A route is included only where OpenStreetMap shows that cycling is allowed, or where the law allows it by default, as on public bridleways. Paths marked as no cycling, private or no access are left out. Routes are based on OpenStreetMap, which anyone can edit and correct, so they do not always confirm a legal right to cycle. Please check local signs. 
+
+The Walking Routes layer (updated November 2026) uses OpenStreetMap data downloaded via Geofabrik and filtered to extract active travel infrastructure across England and Wales. It shows six types of route: footpaths, pedestrian streets, shared paths (including cycleways where walking is allowed), bridleways, tracks and steps. Steps are shown separately because they can be a barrier for wheelchair users, people with buggies and people with limited mobility. Pavements and crossings along streets are not shown, and neither are the streets themselves, which are covered by the Predicted Route Popularity layer. A route is included only where OpenStreetMap shows that walking is allowed, or where there is a public right of way. Paths marked as private or no access are left out. Routes are based on OpenStreetMap, which anyone can edit and correct, so they do not always confirm a legal right of access. Please check local signs.
 
 :::
 
@@ -875,6 +877,11 @@ the likelihood that offenders will be seen and identified.</td>
 <td>Principle 7: Environmental Change</td>
 <td>Seating encourages people to spend time in parks, increasing natural
 surveillance and a sense of community ownership of space.</td>
+</tr>
+<tr>
+<td>Toilets</td>
+<td>Principle 7: Environmental Change</td>
+<td>Good quality facilities encourage people to stay longer in parks, increasing activity and natural surveillance and signalling that the space is cared for.</td>
 </tr>
 </tbody>
 </table>
