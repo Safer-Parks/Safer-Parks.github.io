@@ -24,6 +24,7 @@ website:
       - text: FAQs
         href: faqs.qmd
       - partners.qmd
+      - news.qmd
       - text: Cite us
         href: How_to_cite.qmd
       - text: Dashboard
